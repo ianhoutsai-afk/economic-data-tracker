@@ -1,0 +1,22 @@
+{
+  "name": "economic-data-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace backend & npm run dev --workspace frontend",
+    "build": "npm run build --workspaces",
+    "lint": "npm run lint --workspaces",
+    "test": "npm run test --workspaces",
+    "static:sync": "tsx --tsconfig backend/tsconfig.json backend/src/staticSnapshot.ts",
+    "static:sync:full": "npm run static:sync -- --mode full",
+    "build:static": "npm run build --workspace frontend -- --mode static",
+    "prisma:validate": "npm run prisma:validate --workspace backend"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

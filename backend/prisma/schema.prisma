@@ -1,0 +1,120 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Country {
+  code    String   @id
+  nameZh  String
+  nameEn  String
+  region  String
+  series  Series[]
+}
+
+model Indicator {
+  key       String   @id
+  nameZh    String
+  nameEn    String
+  unit      String
+  frequency String
+  series    Series[]
+}
+
+model Series {
+  id           String        @id
+  countryCode  String
+  indicatorKey String
+  source       String
+  sourceUrl    String?
+  status       String        @default("real")
+  sourceStatus String        @default("pending")
+  providerKey  String?
+  lastSyncedAt DateTime?
+  nextReleaseDate DateTime?
+  country      Country       @relation(fields: [countryCode], references: [code])
+  indicator    Indicator     @relation(fields: [indicatorKey], references: [key])
+  observations Observation[]
+  syncRuns     SyncRun[]
+  releaseEvents ReleaseEvent[]
+
+  @@unique([countryCode, indicatorKey, source])
+  @@index([countryCode])
+  @@index([indicatorKey])
+  @@index([nextReleaseDate])
+}
+
+model Observation {
+  id        String   @id @default(cuid())
+  seriesId  String
+  date      DateTime
+  period    String?
+  frequency String   @default("annual")
+  value     Float
+  rawValue  Float?
+  normalizedValue Float?
+  revisionTag String?
+  source    String
+  updatedAt DateTime @updatedAt
+  series    Series   @relation(fields: [seriesId], references: [id], onDelete: Cascade)
+
+  @@unique([seriesId, date])
+  @@index([date])
+}
+
+model ReleaseEvent {
+  id           String   @id @default(cuid())
+  seriesId     String
+  countryCode  String
+  indicatorKey String
+  eventType    String
+  date         DateTime
+  period       String?
+  actual       Float?
+  previous     Float?
+  forecast     Float?
+  consensus    Float?
+  source       String
+  sourceUrl    String?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  series       Series   @relation(fields: [seriesId], references: [id], onDelete: Cascade)
+
+  @@unique([seriesId, eventType, date, period])
+  @@index([countryCode])
+  @@index([indicatorKey])
+  @@index([date])
+}
+
+model DataProvider {
+  key            String   @id
+  name           String
+  sourceUrl      String?
+  priority       Int
+  requiresApiKey Boolean  @default(false)
+  registrationUrl String?
+  status         String   @default("pending")
+  coverage       String?
+  lastCheckedAt  DateTime?
+  errorMessage   String?
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+}
+
+model SyncRun {
+  id           String   @id @default(cuid())
+  seriesId     String
+  source       String
+  status       String
+  startedAt    DateTime @default(now())
+  finishedAt   DateTime?
+  recordsUpserted Int   @default(0)
+  errorMessage String?
+  series       Series   @relation(fields: [seriesId], references: [id], onDelete: Cascade)
+
+  @@index([seriesId])
+  @@index([startedAt])
+}

@@ -1,0 +1,112 @@
+name: Static dashboard
+
+on:
+  push:
+    branches: ["main"]
+  schedule:
+    - cron: "17 1,7,13,19 * * *"
+    - cron: "27 2 * * 0"
+  workflow_dispatch:
+    inputs:
+      sync_mode:
+        description: Static data refresh mode
+        required: true
+        default: full
+        type: choice
+        options:
+          - due
+          - full
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Verify
+        run: |
+          npm run lint
+          npm test
+
+      - name: Select sync mode
+        id: sync-mode
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          REQUESTED_MODE: ${{ inputs.sync_mode }}
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          mode="due"
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+            mode="$REQUESTED_MODE"
+          elif [ "$SCHEDULE" = "27 2 * * 0" ]; then
+            mode="full"
+          elif [ ! -f frontend/public/data/dashboard.json ]; then
+            mode="full"
+          fi
+          echo "value=$mode" >> "$GITHUB_OUTPUT"
+
+      - name: Refresh static data
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          ESTAT_APP_ID: ${{ secrets.ESTAT_APP_ID }}
+          ESTAT_GDP_STATS_DATA_ID: ${{ vars.ESTAT_GDP_STATS_DATA_ID }}
+          ESTAT_GDP_NOMINAL_STATS_DATA_ID: ${{ vars.ESTAT_GDP_NOMINAL_STATS_DATA_ID }}
+          ESTAT_CPI_STATS_DATA_ID: ${{ vars.ESTAT_CPI_STATS_DATA_ID }}
+          NBS_DIRECT_ENABLED: "false"
+        run: npm run static:sync -- --mode "${{ steps.sync-mode.outputs.value }}"
+
+      - name: Commit refreshed snapshot
+        run: |
+          if [ -z "$(git status --short -- frontend/public/data/dashboard.json)" ]; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add frontend/public/data/dashboard.json
+          git commit -m "data: refresh static dashboard [skip ci]"
+          git push
+
+      - name: Build static site
+        run: |
+          repository_name="${GITHUB_REPOSITORY#*/}"
+          VITE_BASE_PATH="/${repository_name}/" npm run build:static
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: frontend/dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
