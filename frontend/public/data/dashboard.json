@@ -1,6 +1,6 @@
 {
   "snapshotVersion": 1,
-  "generatedAt": "2026-06-30T11:40:58.789Z",
+  "generatedAt": "2026-07-01T15:49:59.309Z",
   "countries": [
     {
       "code": "US",
@@ -351,7 +351,7 @@
       "status": "real",
       "sourceStatus": "failed",
       "providerKey": "taiwan_open_data",
-      "nextReleaseDate": "2026-07-01T11:40:58.789Z"
+      "nextReleaseDate": "2026-07-02T15:49:59.309Z"
     },
     {
       "id": "TW-gdp_nominal",
@@ -383,7 +383,7 @@
       "status": "real",
       "sourceStatus": "failed",
       "providerKey": "taiwan_open_data",
-      "nextReleaseDate": "2026-07-01T11:40:58.789Z"
+      "nextReleaseDate": "2026-07-02T15:49:59.309Z"
     },
     {
       "id": "TW-policy_rate",
@@ -47662,7 +47662,7 @@
       "requiresApiKey": true,
       "status": "fresh",
       "coverage": "US GDP, CPI fallback, Fed policy rate",
-      "lastCheckedAt": "2026-06-30T11:40:58.789Z"
+      "lastCheckedAt": "2026-07-01T15:49:59.309Z"
     },
     {
       "key": "bls",
@@ -47672,7 +47672,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "US CPI monthly",
-      "lastCheckedAt": "2026-06-30T11:40:58.789Z"
+      "lastCheckedAt": "2026-07-01T15:49:59.309Z"
     },
     {
       "key": "dbnomics",
@@ -47682,7 +47682,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Free OECD/IMF/NBS mirror for Korea GDP/CPI and China GDP/CPI",
-      "lastCheckedAt": "2026-06-30T11:40:58.789Z"
+      "lastCheckedAt": "2026-07-01T15:49:59.309Z"
     },
     {
       "key": "world_bank",
@@ -47710,7 +47710,7 @@
       "requiresApiKey": false,
       "status": "failed",
       "coverage": "Taiwan CPI and central-bank policy-rate open data; GDP waits for a stable official quarterly level table",
-      "lastCheckedAt": "2026-06-30T11:40:58.789Z",
+      "lastCheckedAt": "2026-07-01T15:49:59.309Z",
       "errorMessage": "Source returned no observations"
     },
     {
@@ -47721,7 +47721,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Euro area GDP and HICP for investor-focused European macro",
-      "lastCheckedAt": "2026-06-30T11:40:58.789Z"
+      "lastCheckedAt": "2026-07-01T15:49:59.309Z"
     },
     {
       "key": "ecb",
@@ -47731,7 +47731,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Euro area policy rate and monetary policy events",
-      "lastCheckedAt": "2026-06-30T11:40:58.789Z"
+      "lastCheckedAt": "2026-07-01T15:49:59.309Z"
     },
     {
       "key": "bis",
@@ -47741,7 +47741,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Cross-country policy-rate history fallback",
-      "lastCheckedAt": "2026-06-30T11:40:58.789Z"
+      "lastCheckedAt": "2026-07-01T15:49:59.309Z"
     },
     {
       "key": "estat",
@@ -47752,7 +47752,7 @@
       "registrationUrl": "https://www.e-stat.go.jp/api/api-dev/request",
       "status": "fresh",
       "coverage": "Japan official GDP/CPI after free appId registration",
-      "lastCheckedAt": "2026-06-30T11:40:58.789Z"
+      "lastCheckedAt": "2026-07-01T15:49:59.309Z"
     },
     {
       "key": "china_nbs_dbnomics",
@@ -47762,7 +47762,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "China nominal GDP and CPI from NBS mirror with optional NBS EasyQuery direct reads; IMF CPI fills missing periods",
-      "lastCheckedAt": "2026-06-30T11:40:58.789Z"
+      "lastCheckedAt": "2026-07-01T15:49:59.309Z"
     }
   ],
   "dataQualityWarnings": [
@@ -50325,15 +50325,15 @@
       "retryCount": 0
     },
     "TW-cpi": {
-      "retryCount": 1,
-      "lastAttemptAt": "2026-06-30T11:40:58.789Z",
-      "nextReleaseDate": "2026-07-01T11:40:58.789Z",
+      "retryCount": 2,
+      "lastAttemptAt": "2026-07-01T15:49:59.309Z",
+      "nextReleaseDate": "2026-07-02T15:49:59.309Z",
       "errorMessage": "Source returned no observations"
     },
     "TW-inflation_rate": {
-      "retryCount": 1,
-      "lastAttemptAt": "2026-06-30T11:40:58.789Z",
-      "nextReleaseDate": "2026-07-01T11:40:58.789Z",
+      "retryCount": 2,
+      "lastAttemptAt": "2026-07-01T15:49:59.309Z",
+      "nextReleaseDate": "2026-07-02T15:49:59.309Z",
       "errorMessage": "Source returned no observations"
     },
     "TW-policy_rate": {
