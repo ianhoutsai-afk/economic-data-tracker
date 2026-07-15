@@ -1,6 +1,6 @@
 {
   "snapshotVersion": 1,
-  "generatedAt": "2026-07-12T05:40:32.124Z",
+  "generatedAt": "2026-07-15T09:21:34.656Z",
   "countries": [
     {
       "code": "US",
@@ -406,10 +406,10 @@
       "unit": "YoY %",
       "sourceUrl": "https://www.bls.gov/developers/",
       "status": "real",
-      "sourceStatus": "fresh",
+      "sourceStatus": "stale",
       "providerKey": "bls",
       "lastSyncedAt": "2026-07-12T05:40:32.124Z",
-      "nextReleaseDate": "2026-07-15T08:00:00.000Z"
+      "nextReleaseDate": "2026-07-16T09:21:34.656Z"
     },
     {
       "id": "US-gdp_nominal",
@@ -447,8 +447,8 @@
       "status": "real",
       "sourceStatus": "fresh",
       "providerKey": "fred",
-      "lastSyncedAt": "2026-07-12T05:40:32.124Z",
-      "nextReleaseDate": "2026-07-15T08:00:00.000Z"
+      "lastSyncedAt": "2026-07-15T09:21:34.656Z",
+      "nextReleaseDate": "2026-08-15T08:00:00.000Z"
     },
     {
       "id": "US-policy_rate",
@@ -23264,6 +23264,611 @@
       "updatedAt": "2026-07-12T05:40:32.124Z"
     },
     {
+      "date": "1961-01-01",
+      "period": "1961-01",
+      "frequency": "monthly",
+      "value": -26.5609,
+      "rawValue": 1.07072414764724,
+      "normalizedValue": -26.5609,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1962-01-01",
+      "period": "1962-01",
+      "frequency": "monthly",
+      "value": 11.9591,
+      "rawValue": 1.19877334820186,
+      "normalizedValue": 11.9591,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1963-01-01",
+      "period": "1963-01",
+      "frequency": "monthly",
+      "value": 3.4115,
+      "rawValue": 1.23966942148753,
+      "normalizedValue": 3.4115,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1964-01-01",
+      "period": "1964-01",
+      "frequency": "monthly",
+      "value": 3.1655,
+      "rawValue": 1.27891156462591,
+      "normalizedValue": 3.1655,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1965-01-01",
+      "period": "1965-01",
+      "frequency": "monthly",
+      "value": 23.9467,
+      "rawValue": 1.58516926383662,
+      "normalizedValue": 23.9467,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1966-01-01",
+      "period": "1966-01",
+      "frequency": "monthly",
+      "value": 90.2053,
+      "rawValue": 3.0150753768844,
+      "normalizedValue": 90.2053,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1967-01-01",
+      "period": "1967-01",
+      "frequency": "monthly",
+      "value": -8.0359,
+      "rawValue": 2.77278562259309,
+      "normalizedValue": -8.0359,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1968-01-01",
+      "period": "1968-01",
+      "frequency": "monthly",
+      "value": 54.0615,
+      "rawValue": 4.27179615288537,
+      "normalizedValue": 54.0615,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1969-01-01",
+      "period": "1969-01",
+      "frequency": "monthly",
+      "value": 27.8709,
+      "rawValue": 5.46238620028745,
+      "normalizedValue": 27.8709,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1970-01-01",
+      "period": "1970-01",
+      "frequency": "monthly",
+      "value": 6.881,
+      "rawValue": 5.83825533848251,
+      "normalizedValue": 6.881,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1971-01-01",
+      "period": "1971-01",
+      "frequency": "monthly",
+      "value": -26.4718,
+      "rawValue": 4.29276668813051,
+      "normalizedValue": -26.4718,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1972-01-01",
+      "period": "1972-01",
+      "frequency": "monthly",
+      "value": -23.7723,
+      "rawValue": 3.27227824655283,
+      "normalizedValue": -23.7723,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1973-01-01",
+      "period": "1973-01",
+      "frequency": "monthly",
+      "value": 88.7908,
+      "rawValue": 6.17776006377038,
+      "normalizedValue": 88.7908,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1974-01-01",
+      "period": "1974-01",
+      "frequency": "monthly",
+      "value": 78.9452,
+      "rawValue": 11.0548048048048,
+      "normalizedValue": 78.9452,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1975-01-01",
+      "period": "1975-01",
+      "frequency": "monthly",
+      "value": -17.2926,
+      "rawValue": 9.14314686496535,
+      "normalizedValue": -17.2926,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1976-01-01",
+      "period": "1976-01",
+      "frequency": "monthly",
+      "value": -37.1681,
+      "rawValue": 5.74481263549085,
+      "normalizedValue": -37.1681,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1977-01-01",
+      "period": "1977-01",
+      "frequency": "monthly",
+      "value": 13.1749,
+      "rawValue": 6.5016839947284,
+      "normalizedValue": 13.1749,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1978-01-01",
+      "period": "1978-01",
+      "frequency": "monthly",
+      "value": 17.369,
+      "rawValue": 7.63096383885606,
+      "normalizedValue": 17.369,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1979-01-01",
+      "period": "1979-01",
+      "frequency": "monthly",
+      "value": 47.4843,
+      "rawValue": 11.2544711292795,
+      "normalizedValue": 47.4843,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1980-01-01",
+      "period": "1980-01",
+      "frequency": "monthly",
+      "value": 20.3895,
+      "rawValue": 13.5492019749684,
+      "normalizedValue": 20.3895,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1981-01-01",
+      "period": "1981-01",
+      "frequency": "monthly",
+      "value": -23.7245,
+      "rawValue": 10.3347153402771,
+      "normalizedValue": -23.7245,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1982-01-01",
+      "period": "1982-01",
+      "frequency": "monthly",
+      "value": -40.6715,
+      "rawValue": 6.13142700027493,
+      "normalizedValue": -40.6715,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1983-01-01",
+      "period": "1983-01",
+      "frequency": "monthly",
+      "value": -47.6071,
+      "rawValue": 3.21243523316065,
+      "normalizedValue": -47.6071,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1984-01-01",
+      "period": "1984-01",
+      "frequency": "monthly",
+      "value": 33.8715,
+      "rawValue": 4.30053547523429,
+      "normalizedValue": 33.8715,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1985-01-01",
+      "period": "1985-01",
+      "frequency": "monthly",
+      "value": -17.5534,
+      "rawValue": 3.54564415209365,
+      "normalizedValue": -17.5534,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1986-01-01",
+      "period": "1986-01",
+      "frequency": "monthly",
+      "value": -46.4682,
+      "rawValue": 1.89804772234276,
+      "normalizedValue": -46.4682,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1987-01-01",
+      "period": "1987-01",
+      "frequency": "monthly",
+      "value": 93.0701,
+      "rawValue": 3.6645632175169,
+      "normalizedValue": 93.0701,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1988-01-01",
+      "period": "1988-01",
+      "frequency": "monthly",
+      "value": 11.275,
+      "rawValue": 4.07774110744413,
+      "normalizedValue": 11.275,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1989-01-01",
+      "period": "1989-01",
+      "frequency": "monthly",
+      "value": 18.3744,
+      "rawValue": 4.82700303008944,
+      "normalizedValue": 18.3744,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1990-01-01",
+      "period": "1990-01",
+      "frequency": "monthly",
+      "value": 11.8283,
+      "rawValue": 5.39795643990325,
+      "normalizedValue": 11.8283,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1991-01-01",
+      "period": "1991-01",
+      "frequency": "monthly",
+      "value": -21.5451,
+      "rawValue": 4.23496396453849,
+      "normalizedValue": -21.5451,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1992-01-01",
+      "period": "1992-01",
+      "frequency": "monthly",
+      "value": -28.4806,
+      "rawValue": 3.02881967814969,
+      "normalizedValue": -28.4806,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1993-01-01",
+      "period": "1993-01",
+      "frequency": "monthly",
+      "value": -2.5476,
+      "rawValue": 2.95165696638559,
+      "normalizedValue": -2.5476,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1994-01-01",
+      "period": "1994-01",
+      "frequency": "monthly",
+      "value": -11.6618,
+      "rawValue": 2.60744159215453,
+      "normalizedValue": -11.6618,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1995-01-01",
+      "period": "1995-01",
+      "frequency": "monthly",
+      "value": 7.5928,
+      "rawValue": 2.80541968853662,
+      "normalizedValue": 7.5928,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1996-01-01",
+      "period": "1996-01",
+      "frequency": "monthly",
+      "value": 4.4836,
+      "rawValue": 2.93120419993441,
+      "normalizedValue": 4.4836,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1997-01-01",
+      "period": "1997-01",
+      "frequency": "monthly",
+      "value": -20.2481,
+      "rawValue": 2.33768993730735,
+      "normalizedValue": -20.2481,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1998-01-01",
+      "period": "1998-01",
+      "frequency": "monthly",
+      "value": -33.5977,
+      "rawValue": 1.55227909874364,
+      "normalizedValue": -33.5977,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "1999-01-01",
+      "period": "1999-01",
+      "frequency": "monthly",
+      "value": 40.9558,
+      "rawValue": 2.18802719697358,
+      "normalizedValue": 40.9558,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "2000-01-01",
+      "period": "2000-01",
+      "frequency": "monthly",
+      "value": 54.3334,
+      "rawValue": 3.37685727149929,
+      "normalizedValue": 54.3334,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "2001-01-01",
+      "period": "2001-01",
+      "frequency": "monthly",
+      "value": -16.3077,
+      "rawValue": 2.82617111885407,
+      "normalizedValue": -16.3077,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "2002-01-01",
+      "period": "2002-01",
+      "frequency": "monthly",
+      "value": -43.8806,
+      "rawValue": 1.58603162650601,
+      "normalizedValue": -43.8806,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "2003-01-01",
+      "period": "2003-01",
+      "frequency": "monthly",
+      "value": 43.1305,
+      "rawValue": 2.27009497336115,
+      "normalizedValue": 43.1305,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "2004-01-01",
+      "period": "2004-01",
+      "frequency": "monthly",
+      "value": 17.935,
+      "rawValue": 2.67723669309172,
+      "normalizedValue": 17.935,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "2005-01-01",
+      "period": "2005-01",
+      "frequency": "monthly",
+      "value": 26.7257,
+      "rawValue": 3.3927468454955,
+      "normalizedValue": 26.7257,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "2006-01-01",
+      "period": "2006-01",
+      "frequency": "monthly",
+      "value": -4.9165,
+      "rawValue": 3.22594410070404,
+      "normalizedValue": -4.9165,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "2007-01-01",
+      "period": "2007-01",
+      "frequency": "monthly",
+      "value": -11.5709,
+      "rawValue": 2.85267248150138,
+      "normalizedValue": -11.5709,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "2008-01-01",
+      "period": "2008-01",
+      "frequency": "monthly",
+      "value": 34.5791,
+      "rawValue": 3.839100296651,
+      "normalizedValue": 34.5791,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "2009-01-01",
+      "period": "2009-01",
+      "frequency": "monthly",
+      "value": -109.2612,
+      "rawValue": -0.355546266299747,
+      "normalizedValue": -109.2612,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "2010-01-01",
+      "period": "2010-01",
+      "frequency": "monthly",
+      "value": -561.2743,
+      "rawValue": 1.6400434423899,
+      "normalizedValue": -561.2743,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "2011-01-01",
+      "period": "2011-01",
+      "frequency": "monthly",
+      "value": 92.4852,
+      "rawValue": 3.156841568622,
+      "normalizedValue": 92.4852,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "2012-01-01",
+      "period": "2012-01",
+      "frequency": "monthly",
+      "value": -34.4491,
+      "rawValue": 2.06933726526067,
+      "normalizedValue": -34.4491,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "2013-01-01",
+      "period": "2013-01",
+      "frequency": "monthly",
+      "value": -29.2125,
+      "rawValue": 1.46483265562717,
+      "normalizedValue": -29.2125,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "2014-01-01",
+      "period": "2014-01",
+      "frequency": "monthly",
+      "value": 10.7446,
+      "rawValue": 1.62222297740817,
+      "normalizedValue": 10.7446,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
+      "date": "2015-01-01",
+      "period": "2015-01",
+      "frequency": "monthly",
+      "value": -92.6874,
+      "rawValue": 0.118627135552451,
+      "normalizedValue": -92.6874,
+      "source": "FRED",
+      "seriesId": "US-inflation_rate",
+      "updatedAt": "2026-07-15T09:21:34.656Z"
+    },
+    {
       "date": "2016-01-01",
       "period": "2016-01",
       "frequency": "monthly",
@@ -23272,7 +23877,7 @@
       "normalizedValue": 963.4862,
       "source": "FRED",
       "seriesId": "US-inflation_rate",
-      "updatedAt": "2026-07-12T05:40:32.124Z"
+      "updatedAt": "2026-07-15T09:21:34.656Z"
     },
     {
       "date": "2017-01-01",
@@ -23283,7 +23888,7 @@
       "normalizedValue": 68.8442,
       "source": "FRED",
       "seriesId": "US-inflation_rate",
-      "updatedAt": "2026-07-12T05:40:32.124Z"
+      "updatedAt": "2026-07-15T09:21:34.656Z"
     },
     {
       "date": "2018-01-01",
@@ -23294,7 +23899,7 @@
       "normalizedValue": 14.6694,
       "source": "FRED",
       "seriesId": "US-inflation_rate",
-      "updatedAt": "2026-07-12T05:40:32.124Z"
+      "updatedAt": "2026-07-15T09:21:34.656Z"
     },
     {
       "date": "2019-01-01",
@@ -23305,7 +23910,7 @@
       "normalizedValue": -25.8076,
       "source": "FRED",
       "seriesId": "US-inflation_rate",
-      "updatedAt": "2026-07-12T05:40:32.124Z"
+      "updatedAt": "2026-07-15T09:21:34.656Z"
     },
     {
       "date": "2020-01-01",
@@ -23316,7 +23921,7 @@
       "normalizedValue": -31.9293,
       "source": "FRED",
       "seriesId": "US-inflation_rate",
-      "updatedAt": "2026-07-12T05:40:32.124Z"
+      "updatedAt": "2026-07-15T09:21:34.656Z"
     },
     {
       "date": "2021-01-01",
@@ -23327,7 +23932,7 @@
       "normalizedValue": 280.83,
       "source": "FRED",
       "seriesId": "US-inflation_rate",
-      "updatedAt": "2026-07-12T05:40:32.124Z"
+      "updatedAt": "2026-07-15T09:21:34.656Z"
     },
     {
       "date": "2022-01-01",
@@ -23338,7 +23943,7 @@
       "normalizedValue": 70.3499,
       "source": "FRED",
       "seriesId": "US-inflation_rate",
-      "updatedAt": "2026-07-12T05:40:32.124Z"
+      "updatedAt": "2026-07-15T09:21:34.656Z"
     },
     {
       "date": "2023-01-01",
@@ -23349,7 +23954,7 @@
       "normalizedValue": -48.5638,
       "source": "FRED",
       "seriesId": "US-inflation_rate",
-      "updatedAt": "2026-07-12T05:40:32.124Z"
+      "updatedAt": "2026-07-15T09:21:34.656Z"
     },
     {
       "date": "2024-01-01",
@@ -23360,7 +23965,7 @@
       "normalizedValue": -28.3459,
       "source": "FRED",
       "seriesId": "US-inflation_rate",
-      "updatedAt": "2026-07-12T05:40:32.124Z"
+      "updatedAt": "2026-07-15T09:21:34.656Z"
     },
     {
       "date": "2016-01-01",
@@ -46645,6 +47250,611 @@
       "countryCode": "US",
       "indicatorKey": "inflation_rate",
       "eventType": "inflation_release",
+      "date": "1961-01-01",
+      "period": "1961-01",
+      "actual": -26.5609,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1962-01-01",
+      "period": "1962-01",
+      "actual": 11.9591,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1963-01-01",
+      "period": "1963-01",
+      "actual": 3.4115,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1964-01-01",
+      "period": "1964-01",
+      "actual": 3.1655,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1965-01-01",
+      "period": "1965-01",
+      "actual": 23.9467,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1966-01-01",
+      "period": "1966-01",
+      "actual": 90.2053,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1967-01-01",
+      "period": "1967-01",
+      "actual": -8.0359,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1968-01-01",
+      "period": "1968-01",
+      "actual": 54.0615,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1969-01-01",
+      "period": "1969-01",
+      "actual": 27.8709,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1970-01-01",
+      "period": "1970-01",
+      "actual": 6.881,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1971-01-01",
+      "period": "1971-01",
+      "actual": -26.4718,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1972-01-01",
+      "period": "1972-01",
+      "actual": -23.7723,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1973-01-01",
+      "period": "1973-01",
+      "actual": 88.7908,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1974-01-01",
+      "period": "1974-01",
+      "actual": 78.9452,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1975-01-01",
+      "period": "1975-01",
+      "actual": -17.2926,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1976-01-01",
+      "period": "1976-01",
+      "actual": -37.1681,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1977-01-01",
+      "period": "1977-01",
+      "actual": 13.1749,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1978-01-01",
+      "period": "1978-01",
+      "actual": 17.369,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1979-01-01",
+      "period": "1979-01",
+      "actual": 47.4843,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1980-01-01",
+      "period": "1980-01",
+      "actual": 20.3895,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1981-01-01",
+      "period": "1981-01",
+      "actual": -23.7245,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1982-01-01",
+      "period": "1982-01",
+      "actual": -40.6715,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1983-01-01",
+      "period": "1983-01",
+      "actual": -47.6071,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1984-01-01",
+      "period": "1984-01",
+      "actual": 33.8715,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1985-01-01",
+      "period": "1985-01",
+      "actual": -17.5534,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1986-01-01",
+      "period": "1986-01",
+      "actual": -46.4682,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1987-01-01",
+      "period": "1987-01",
+      "actual": 93.0701,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1988-01-01",
+      "period": "1988-01",
+      "actual": 11.275,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1989-01-01",
+      "period": "1989-01",
+      "actual": 18.3744,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1990-01-01",
+      "period": "1990-01",
+      "actual": 11.8283,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1991-01-01",
+      "period": "1991-01",
+      "actual": -21.5451,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1992-01-01",
+      "period": "1992-01",
+      "actual": -28.4806,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1993-01-01",
+      "period": "1993-01",
+      "actual": -2.5476,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1994-01-01",
+      "period": "1994-01",
+      "actual": -11.6618,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1995-01-01",
+      "period": "1995-01",
+      "actual": 7.5928,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1996-01-01",
+      "period": "1996-01",
+      "actual": 4.4836,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1997-01-01",
+      "period": "1997-01",
+      "actual": -20.2481,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1998-01-01",
+      "period": "1998-01",
+      "actual": -33.5977,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "1999-01-01",
+      "period": "1999-01",
+      "actual": 40.9558,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "2000-01-01",
+      "period": "2000-01",
+      "actual": 54.3334,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "2001-01-01",
+      "period": "2001-01",
+      "actual": -16.3077,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "2002-01-01",
+      "period": "2002-01",
+      "actual": -43.8806,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "2003-01-01",
+      "period": "2003-01",
+      "actual": 43.1305,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "2004-01-01",
+      "period": "2004-01",
+      "actual": 17.935,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "2005-01-01",
+      "period": "2005-01",
+      "actual": 26.7257,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "2006-01-01",
+      "period": "2006-01",
+      "actual": -4.9165,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "2007-01-01",
+      "period": "2007-01",
+      "actual": -11.5709,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "2008-01-01",
+      "period": "2008-01",
+      "actual": 34.5791,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "2009-01-01",
+      "period": "2009-01",
+      "actual": -109.2612,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "2010-01-01",
+      "period": "2010-01",
+      "actual": -561.2743,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "2011-01-01",
+      "period": "2011-01",
+      "actual": 92.4852,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "2012-01-01",
+      "period": "2012-01",
+      "actual": -34.4491,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "2013-01-01",
+      "period": "2013-01",
+      "actual": -29.2125,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "2014-01-01",
+      "period": "2014-01",
+      "actual": 10.7446,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "2015-01-01",
+      "period": "2015-01",
+      "actual": -92.6874,
+      "source": "FRED",
+      "sourceUrl": "https://fred.stlouisfed.org/docs/api/fred/series_observations.html"
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "countryCode": "US",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
       "date": "2016-01-01",
       "period": "2016-01",
       "actual": 963.4862,
@@ -47673,7 +48883,7 @@
       "requiresApiKey": true,
       "status": "fresh",
       "coverage": "US GDP, CPI fallback, Fed policy rate",
-      "lastCheckedAt": "2026-07-12T05:40:32.124Z"
+      "lastCheckedAt": "2026-07-15T09:21:34.656Z"
     },
     {
       "key": "bls",
@@ -47681,9 +48891,10 @@
       "sourceUrl": "https://www.bls.gov/developers/",
       "priority": 20,
       "requiresApiKey": false,
-      "status": "fresh",
+      "status": "stale",
       "coverage": "US CPI monthly",
-      "lastCheckedAt": "2026-07-12T05:40:32.124Z"
+      "lastCheckedAt": "2026-07-15T09:21:34.656Z",
+      "errorMessage": "Source has not published a new value yet"
     },
     {
       "key": "dbnomics",
@@ -47693,7 +48904,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Free OECD/IMF/NBS mirror for Korea GDP/CPI and China GDP/CPI",
-      "lastCheckedAt": "2026-07-12T05:40:32.124Z"
+      "lastCheckedAt": "2026-07-15T09:21:34.656Z"
     },
     {
       "key": "world_bank",
@@ -47721,7 +48932,7 @@
       "requiresApiKey": false,
       "status": "failed",
       "coverage": "Taiwan CPI and central-bank policy-rate open data; GDP waits for a stable official quarterly level table",
-      "lastCheckedAt": "2026-07-12T05:40:32.124Z",
+      "lastCheckedAt": "2026-07-15T09:21:34.656Z",
       "errorMessage": "Source returned no observations"
     },
     {
@@ -47732,7 +48943,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Euro area GDP and HICP for investor-focused European macro",
-      "lastCheckedAt": "2026-07-12T05:40:32.124Z"
+      "lastCheckedAt": "2026-07-15T09:21:34.656Z"
     },
     {
       "key": "ecb",
@@ -47742,7 +48953,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Euro area policy rate and monetary policy events",
-      "lastCheckedAt": "2026-07-12T05:40:32.124Z"
+      "lastCheckedAt": "2026-07-15T09:21:34.656Z"
     },
     {
       "key": "bis",
@@ -47752,7 +48963,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Cross-country policy-rate history fallback",
-      "lastCheckedAt": "2026-07-12T05:40:32.124Z"
+      "lastCheckedAt": "2026-07-15T09:21:34.656Z"
     },
     {
       "key": "estat",
@@ -47763,7 +48974,7 @@
       "registrationUrl": "https://www.e-stat.go.jp/api/api-dev/request",
       "status": "fresh",
       "coverage": "Japan official GDP/CPI after free appId registration",
-      "lastCheckedAt": "2026-07-12T05:40:32.124Z"
+      "lastCheckedAt": "2026-07-15T09:21:34.656Z"
     },
     {
       "key": "china_nbs_dbnomics",
@@ -47773,7 +48984,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "China nominal GDP and CPI from NBS mirror with optional NBS EasyQuery direct reads; IMF CPI fills missing periods",
-      "lastCheckedAt": "2026-07-12T05:40:32.124Z"
+      "lastCheckedAt": "2026-07-15T09:21:34.656Z"
     }
   ],
   "dataQualityWarnings": [
@@ -48379,87 +49590,6 @@
       "primaryValue": 2.8707,
       "comparisonValue": 2.9495,
       "difference": -0.0788
-    },
-    {
-      "seriesId": "US-inflation_rate",
-      "period": "2016-01",
-      "primarySource": "FRED",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 963.4862,
-      "comparisonValue": 1.2616,
-      "difference": 962.2246
-    },
-    {
-      "seriesId": "US-inflation_rate",
-      "period": "2017-01",
-      "primarySource": "FRED",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 68.8442,
-      "comparisonValue": 2.1301,
-      "difference": 66.7141
-    },
-    {
-      "seriesId": "US-inflation_rate",
-      "period": "2018-01",
-      "primarySource": "FRED",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 14.6694,
-      "comparisonValue": 2.4426,
-      "difference": 12.2268
-    },
-    {
-      "seriesId": "US-inflation_rate",
-      "period": "2019-01",
-      "primarySource": "FRED",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": -25.8076,
-      "comparisonValue": 1.8122,
-      "difference": -27.6198
-    },
-    {
-      "seriesId": "US-inflation_rate",
-      "period": "2020-01",
-      "primarySource": "FRED",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": -31.9293,
-      "comparisonValue": 1.2336,
-      "difference": -33.1629
-    },
-    {
-      "seriesId": "US-inflation_rate",
-      "period": "2021-01",
-      "primarySource": "FRED",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 280.83,
-      "comparisonValue": 4.6979,
-      "difference": 276.1321
-    },
-    {
-      "seriesId": "US-inflation_rate",
-      "period": "2022-01",
-      "primarySource": "FRED",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 70.3499,
-      "comparisonValue": 8.0028,
-      "difference": 62.3471
-    },
-    {
-      "seriesId": "US-inflation_rate",
-      "period": "2023-01",
-      "primarySource": "FRED",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": -48.5638,
-      "comparisonValue": 4.1163,
-      "difference": -52.6801
-    },
-    {
-      "seriesId": "US-inflation_rate",
-      "period": "2024-01",
-      "primarySource": "FRED",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": -28.3459,
-      "comparisonValue": 2.9495,
-      "difference": -31.2954
     },
     {
       "seriesId": "EU-gdp_real",
@@ -51106,6 +52236,87 @@
       "primaryValue": 0.8,
       "comparisonValue": 0.0596,
       "difference": 0.7404
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "period": "2016-01",
+      "primarySource": "FRED",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 963.4862,
+      "comparisonValue": 1.2616,
+      "difference": 962.2246
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "period": "2017-01",
+      "primarySource": "FRED",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 68.8442,
+      "comparisonValue": 2.1301,
+      "difference": 66.7141
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "period": "2018-01",
+      "primarySource": "FRED",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 14.6694,
+      "comparisonValue": 2.4426,
+      "difference": 12.2268
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "period": "2019-01",
+      "primarySource": "FRED",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": -25.8076,
+      "comparisonValue": 1.8122,
+      "difference": -27.6198
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "period": "2020-01",
+      "primarySource": "FRED",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": -31.9293,
+      "comparisonValue": 1.2336,
+      "difference": -33.1629
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "period": "2021-01",
+      "primarySource": "FRED",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 280.83,
+      "comparisonValue": 4.6979,
+      "difference": 276.1321
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "period": "2022-01",
+      "primarySource": "FRED",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 70.3499,
+      "comparisonValue": 8.0028,
+      "difference": 62.3471
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "period": "2023-01",
+      "primarySource": "FRED",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": -48.5638,
+      "comparisonValue": 4.1163,
+      "difference": -52.6801
+    },
+    {
+      "seriesId": "US-inflation_rate",
+      "period": "2024-01",
+      "primarySource": "FRED",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": -28.3459,
+      "comparisonValue": 2.9495,
+      "difference": -31.2954
     }
   ],
   "syncState": {
@@ -51122,15 +52333,16 @@
       "retryCount": 0
     },
     "US-cpi": {
-      "lastAttemptAt": "2026-07-12T05:40:32.124Z",
+      "lastAttemptAt": "2026-07-15T09:21:34.656Z",
       "lastSuccessAt": "2026-07-12T05:40:32.124Z",
-      "nextReleaseDate": "2026-07-15T08:00:00.000Z",
-      "retryCount": 0
+      "nextReleaseDate": "2026-07-16T09:21:34.656Z",
+      "retryCount": 1,
+      "errorMessage": "Source has not published a new value yet"
     },
     "US-inflation_rate": {
-      "lastAttemptAt": "2026-07-12T05:40:32.124Z",
-      "lastSuccessAt": "2026-07-12T05:40:32.124Z",
-      "nextReleaseDate": "2026-07-15T08:00:00.000Z",
+      "lastAttemptAt": "2026-07-15T09:21:34.656Z",
+      "lastSuccessAt": "2026-07-15T09:21:34.656Z",
+      "nextReleaseDate": "2026-08-15T08:00:00.000Z",
       "retryCount": 0
     },
     "US-policy_rate": {
