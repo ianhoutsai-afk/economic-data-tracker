@@ -1,6 +1,6 @@
 {
   "snapshotVersion": 1,
-  "generatedAt": "2026-07-16T09:28:27.701Z",
+  "generatedAt": "2026-07-17T09:21:29.061Z",
   "countries": [
     {
       "code": "US",
@@ -154,10 +154,10 @@
       "unit": "YoY %",
       "sourceUrl": "https://ec.europa.eu/eurostat/web/user-guides/data-browser/api-data-access/api-detailed-guidelines",
       "status": "real",
-      "sourceStatus": "fresh",
+      "sourceStatus": "stale",
       "providerKey": "eurostat",
       "lastSyncedAt": "2026-07-12T05:40:32.124Z",
-      "nextReleaseDate": "2026-07-17T08:00:00.000Z"
+      "nextReleaseDate": "2026-07-18T09:21:29.061Z"
     },
     {
       "id": "EU-gdp_nominal",
@@ -193,10 +193,10 @@
       "unit": "%",
       "sourceUrl": "https://ec.europa.eu/eurostat/web/user-guides/data-browser/api-data-access/api-detailed-guidelines",
       "status": "real",
-      "sourceStatus": "fresh",
+      "sourceStatus": "stale",
       "providerKey": "eurostat",
       "lastSyncedAt": "2026-07-12T05:40:32.124Z",
-      "nextReleaseDate": "2026-07-17T08:00:00.000Z"
+      "nextReleaseDate": "2026-07-18T09:21:29.061Z"
     },
     {
       "id": "EU-policy_rate",
@@ -48883,7 +48883,7 @@
       "requiresApiKey": true,
       "status": "fresh",
       "coverage": "US GDP, CPI fallback, Fed policy rate",
-      "lastCheckedAt": "2026-07-16T09:28:27.701Z"
+      "lastCheckedAt": "2026-07-17T09:21:29.061Z"
     },
     {
       "key": "bls",
@@ -48893,7 +48893,7 @@
       "requiresApiKey": false,
       "status": "stale",
       "coverage": "US CPI monthly",
-      "lastCheckedAt": "2026-07-16T09:28:27.701Z",
+      "lastCheckedAt": "2026-07-17T09:21:29.061Z",
       "errorMessage": "Source has not published a new value yet"
     },
     {
@@ -48904,7 +48904,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Free OECD/IMF/NBS mirror for Korea GDP/CPI and China GDP/CPI",
-      "lastCheckedAt": "2026-07-16T09:28:27.701Z"
+      "lastCheckedAt": "2026-07-17T09:21:29.061Z"
     },
     {
       "key": "world_bank",
@@ -48932,7 +48932,7 @@
       "requiresApiKey": false,
       "status": "failed",
       "coverage": "Taiwan CPI and central-bank policy-rate open data; GDP waits for a stable official quarterly level table",
-      "lastCheckedAt": "2026-07-16T09:28:27.701Z",
+      "lastCheckedAt": "2026-07-17T09:21:29.061Z",
       "errorMessage": "Source returned no observations"
     },
     {
@@ -48941,9 +48941,10 @@
       "sourceUrl": "https://ec.europa.eu/eurostat/web/user-guides/data-browser/api-data-access/api-detailed-guidelines",
       "priority": 30,
       "requiresApiKey": false,
-      "status": "fresh",
+      "status": "stale",
       "coverage": "Euro area GDP and HICP for investor-focused European macro",
-      "lastCheckedAt": "2026-07-16T09:28:27.701Z"
+      "lastCheckedAt": "2026-07-17T09:21:29.061Z",
+      "errorMessage": "Source has not published a new value yet"
     },
     {
       "key": "ecb",
@@ -48953,7 +48954,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Euro area policy rate and monetary policy events",
-      "lastCheckedAt": "2026-07-16T09:28:27.701Z"
+      "lastCheckedAt": "2026-07-17T09:21:29.061Z"
     },
     {
       "key": "bis",
@@ -48963,7 +48964,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Cross-country policy-rate history fallback",
-      "lastCheckedAt": "2026-07-16T09:28:27.701Z"
+      "lastCheckedAt": "2026-07-17T09:21:29.061Z"
     },
     {
       "key": "estat",
@@ -48974,7 +48975,7 @@
       "registrationUrl": "https://www.e-stat.go.jp/api/api-dev/request",
       "status": "fresh",
       "coverage": "Japan official GDP/CPI after free appId registration",
-      "lastCheckedAt": "2026-07-16T09:28:27.701Z"
+      "lastCheckedAt": "2026-07-17T09:21:29.061Z"
     },
     {
       "key": "china_nbs_dbnomics",
@@ -48984,7 +48985,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "China nominal GDP and CPI from NBS mirror with optional NBS EasyQuery direct reads; IMF CPI fills missing periods",
-      "lastCheckedAt": "2026-07-16T09:28:27.701Z"
+      "lastCheckedAt": "2026-07-17T09:21:29.061Z"
     }
   ],
   "dataQualityWarnings": [
@@ -52364,16 +52365,18 @@
       "retryCount": 0
     },
     "EU-cpi": {
-      "lastAttemptAt": "2026-07-12T05:40:32.124Z",
+      "lastAttemptAt": "2026-07-17T09:21:29.061Z",
       "lastSuccessAt": "2026-07-12T05:40:32.124Z",
-      "nextReleaseDate": "2026-07-17T08:00:00.000Z",
-      "retryCount": 0
+      "nextReleaseDate": "2026-07-18T09:21:29.061Z",
+      "retryCount": 1,
+      "errorMessage": "Source has not published a new value yet"
     },
     "EU-inflation_rate": {
-      "lastAttemptAt": "2026-07-12T05:40:32.124Z",
+      "lastAttemptAt": "2026-07-17T09:21:29.061Z",
       "lastSuccessAt": "2026-07-12T05:40:32.124Z",
-      "nextReleaseDate": "2026-07-17T08:00:00.000Z",
-      "retryCount": 0
+      "nextReleaseDate": "2026-07-18T09:21:29.061Z",
+      "retryCount": 1,
+      "errorMessage": "Source has not published a new value yet"
     },
     "EU-policy_rate": {
       "lastAttemptAt": "2026-07-12T05:40:32.124Z",
