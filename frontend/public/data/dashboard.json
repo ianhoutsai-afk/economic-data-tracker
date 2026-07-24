@@ -1,6 +1,6 @@
 {
   "snapshotVersion": 1,
-  "generatedAt": "2026-07-23T15:25:05.702Z",
+  "generatedAt": "2026-07-24T20:40:54.505Z",
   "countries": [
     {
       "code": "US",
@@ -219,10 +219,10 @@
       "unit": "YoY %",
       "sourceUrl": "https://www.e-stat.go.jp/api/",
       "status": "real",
-      "sourceStatus": "stale",
+      "sourceStatus": "fresh",
       "providerKey": "estat",
-      "lastSyncedAt": "2026-07-19T05:34:13.943Z",
-      "nextReleaseDate": "2026-07-24T15:25:05.702Z"
+      "lastSyncedAt": "2026-07-24T20:40:54.505Z",
+      "nextReleaseDate": "2026-08-22T08:00:00.000Z"
     },
     {
       "id": "JP-gdp_nominal",
@@ -258,10 +258,10 @@
       "unit": "%",
       "sourceUrl": "https://www.e-stat.go.jp/api/",
       "status": "real",
-      "sourceStatus": "stale",
+      "sourceStatus": "fresh",
       "providerKey": "estat",
-      "lastSyncedAt": "2026-07-19T05:34:13.943Z",
-      "nextReleaseDate": "2026-07-24T15:25:05.702Z"
+      "lastSyncedAt": "2026-07-24T20:40:54.505Z",
+      "nextReleaseDate": "2026-08-22T08:00:00.000Z"
     },
     {
       "id": "JP-policy_rate",
@@ -13254,7 +13254,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-02-01",
@@ -13266,7 +13266,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-03-01",
@@ -13278,7 +13278,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-04-01",
@@ -13290,7 +13290,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-05-01",
@@ -13302,7 +13302,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-06-01",
@@ -13314,7 +13314,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-07-01",
@@ -13326,7 +13326,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-08-01",
@@ -13338,7 +13338,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-09-01",
@@ -13350,7 +13350,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-10-01",
@@ -13362,7 +13362,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-11-01",
@@ -13374,7 +13374,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-12-01",
@@ -13386,7 +13386,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-01-01",
@@ -13398,7 +13398,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-02-01",
@@ -13410,7 +13410,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-03-01",
@@ -13422,7 +13422,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-04-01",
@@ -13434,7 +13434,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-05-01",
@@ -13446,7 +13446,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-06-01",
@@ -13458,7 +13458,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-07-01",
@@ -13470,7 +13470,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-08-01",
@@ -13482,7 +13482,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-09-01",
@@ -13494,7 +13494,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-10-01",
@@ -13506,7 +13506,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-11-01",
@@ -13518,7 +13518,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-12-01",
@@ -13530,7 +13530,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-01-01",
@@ -13542,7 +13542,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-02-01",
@@ -13554,7 +13554,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-03-01",
@@ -13566,7 +13566,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-04-01",
@@ -13578,7 +13578,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-05-01",
@@ -13590,7 +13590,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-06-01",
@@ -13602,7 +13602,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-07-01",
@@ -13614,7 +13614,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-08-01",
@@ -13626,7 +13626,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-09-01",
@@ -13638,7 +13638,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-10-01",
@@ -13650,7 +13650,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-11-01",
@@ -13662,7 +13662,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-12-01",
@@ -13674,7 +13674,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-01-01",
@@ -13686,7 +13686,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-02-01",
@@ -13698,7 +13698,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-03-01",
@@ -13710,7 +13710,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-04-01",
@@ -13722,7 +13722,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-05-01",
@@ -13734,7 +13734,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-06-01",
@@ -13746,7 +13746,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-07-01",
@@ -13758,7 +13758,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-08-01",
@@ -13770,7 +13770,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-09-01",
@@ -13782,7 +13782,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-10-01",
@@ -13794,7 +13794,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-11-01",
@@ -13806,7 +13806,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-12-01",
@@ -13818,7 +13818,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-01-01",
@@ -13830,7 +13830,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-02-01",
@@ -13842,7 +13842,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-03-01",
@@ -13854,7 +13854,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-04-01",
@@ -13866,7 +13866,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-05-01",
@@ -13878,7 +13878,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-06-01",
@@ -13890,7 +13890,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-07-01",
@@ -13902,7 +13902,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-08-01",
@@ -13914,7 +13914,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-09-01",
@@ -13926,7 +13926,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-10-01",
@@ -13938,7 +13938,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-11-01",
@@ -13950,7 +13950,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-12-01",
@@ -13962,7 +13962,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-01-01",
@@ -13974,7 +13974,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-02-01",
@@ -13986,7 +13986,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-03-01",
@@ -13998,7 +13998,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-04-01",
@@ -14010,7 +14010,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-05-01",
@@ -14022,7 +14022,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-06-01",
@@ -14034,7 +14034,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-07-01",
@@ -14046,7 +14046,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-08-01",
@@ -14058,7 +14058,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-09-01",
@@ -14070,7 +14070,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-10-01",
@@ -14082,7 +14082,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-11-01",
@@ -14094,7 +14094,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-12-01",
@@ -14106,7 +14106,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-01-01",
@@ -14118,7 +14118,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-02-01",
@@ -14130,7 +14130,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-03-01",
@@ -14142,7 +14142,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-04-01",
@@ -14154,7 +14154,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-05-01",
@@ -14166,7 +14166,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-06-01",
@@ -14178,7 +14178,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-07-01",
@@ -14190,7 +14190,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-08-01",
@@ -14202,7 +14202,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-09-01",
@@ -14214,7 +14214,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-10-01",
@@ -14226,7 +14226,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-11-01",
@@ -14238,7 +14238,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-12-01",
@@ -14250,7 +14250,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-01-01",
@@ -14262,7 +14262,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-02-01",
@@ -14274,7 +14274,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-03-01",
@@ -14286,7 +14286,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-04-01",
@@ -14298,7 +14298,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-05-01",
@@ -14310,7 +14310,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-06-01",
@@ -14322,7 +14322,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-07-01",
@@ -14334,7 +14334,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-08-01",
@@ -14346,7 +14346,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-09-01",
@@ -14358,7 +14358,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-10-01",
@@ -14370,7 +14370,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-11-01",
@@ -14382,7 +14382,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-12-01",
@@ -14394,7 +14394,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-01-01",
@@ -14406,7 +14406,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-02-01",
@@ -14418,7 +14418,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-03-01",
@@ -14430,7 +14430,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-04-01",
@@ -14442,7 +14442,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-05-01",
@@ -14454,7 +14454,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-06-01",
@@ -14466,7 +14466,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-07-01",
@@ -14478,7 +14478,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-08-01",
@@ -14490,7 +14490,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-09-01",
@@ -14502,7 +14502,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-10-01",
@@ -14514,7 +14514,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-11-01",
@@ -14526,7 +14526,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-12-01",
@@ -14538,7 +14538,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-01-01",
@@ -14550,7 +14550,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-02-01",
@@ -14562,7 +14562,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-03-01",
@@ -14574,7 +14574,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-04-01",
@@ -14586,7 +14586,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-05-01",
@@ -14598,7 +14598,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-06-01",
@@ -14610,7 +14610,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-07-01",
@@ -14622,7 +14622,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-08-01",
@@ -14634,7 +14634,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-09-01",
@@ -14646,7 +14646,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-10-01",
@@ -14658,7 +14658,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-11-01",
@@ -14670,7 +14670,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-12-01",
@@ -14682,7 +14682,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2026-01-01",
@@ -14694,7 +14694,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2026-02-01",
@@ -14706,7 +14706,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2026-03-01",
@@ -14718,7 +14718,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2026-04-01",
@@ -14730,7 +14730,7 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2026-05-01",
@@ -14742,7 +14742,19 @@
       "unit": "YoY %",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-cpi",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
+    },
+    {
+      "date": "2026-06-01",
+      "period": "2026-06",
+      "frequency": "monthly",
+      "value": 1.7,
+      "rawValue": 1.7,
+      "normalizedValue": 1.7,
+      "unit": "YoY %",
+      "source": "Japan e-Stat Dashboard",
+      "seriesId": "JP-cpi",
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-03-31",
@@ -15738,7 +15750,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-02-01",
@@ -15750,7 +15762,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-03-01",
@@ -15762,7 +15774,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-04-01",
@@ -15774,7 +15786,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-05-01",
@@ -15786,7 +15798,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-06-01",
@@ -15798,7 +15810,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-07-01",
@@ -15810,7 +15822,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-08-01",
@@ -15822,7 +15834,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-09-01",
@@ -15834,7 +15846,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-10-01",
@@ -15846,7 +15858,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-11-01",
@@ -15858,7 +15870,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-12-01",
@@ -15870,7 +15882,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-01-01",
@@ -15882,7 +15894,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-02-01",
@@ -15894,7 +15906,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-03-01",
@@ -15906,7 +15918,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-04-01",
@@ -15918,7 +15930,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-05-01",
@@ -15930,7 +15942,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-06-01",
@@ -15942,7 +15954,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-07-01",
@@ -15954,7 +15966,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-08-01",
@@ -15966,7 +15978,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-09-01",
@@ -15978,7 +15990,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-10-01",
@@ -15990,7 +16002,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-11-01",
@@ -16002,7 +16014,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2017-12-01",
@@ -16014,7 +16026,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-01-01",
@@ -16026,7 +16038,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-02-01",
@@ -16038,7 +16050,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-03-01",
@@ -16050,7 +16062,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-04-01",
@@ -16062,7 +16074,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-05-01",
@@ -16074,7 +16086,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-06-01",
@@ -16086,7 +16098,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-07-01",
@@ -16098,7 +16110,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-08-01",
@@ -16110,7 +16122,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-09-01",
@@ -16122,7 +16134,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-10-01",
@@ -16134,7 +16146,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-11-01",
@@ -16146,7 +16158,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2018-12-01",
@@ -16158,7 +16170,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-01-01",
@@ -16170,7 +16182,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-02-01",
@@ -16182,7 +16194,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-03-01",
@@ -16194,7 +16206,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-04-01",
@@ -16206,7 +16218,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-05-01",
@@ -16218,7 +16230,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-06-01",
@@ -16230,7 +16242,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-07-01",
@@ -16242,7 +16254,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-08-01",
@@ -16254,7 +16266,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-09-01",
@@ -16266,7 +16278,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-10-01",
@@ -16278,7 +16290,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-11-01",
@@ -16290,7 +16302,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2019-12-01",
@@ -16302,7 +16314,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-01-01",
@@ -16314,7 +16326,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-02-01",
@@ -16326,7 +16338,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-03-01",
@@ -16338,7 +16350,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-04-01",
@@ -16350,7 +16362,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-05-01",
@@ -16362,7 +16374,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-06-01",
@@ -16374,7 +16386,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-07-01",
@@ -16386,7 +16398,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-08-01",
@@ -16398,7 +16410,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-09-01",
@@ -16410,7 +16422,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-10-01",
@@ -16422,7 +16434,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-11-01",
@@ -16434,7 +16446,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2020-12-01",
@@ -16446,7 +16458,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-01-01",
@@ -16458,7 +16470,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-02-01",
@@ -16470,7 +16482,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-03-01",
@@ -16482,7 +16494,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-04-01",
@@ -16494,7 +16506,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-05-01",
@@ -16506,7 +16518,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-06-01",
@@ -16518,7 +16530,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-07-01",
@@ -16530,7 +16542,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-08-01",
@@ -16542,7 +16554,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-09-01",
@@ -16554,7 +16566,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-10-01",
@@ -16566,7 +16578,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-11-01",
@@ -16578,7 +16590,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2021-12-01",
@@ -16590,7 +16602,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-01-01",
@@ -16602,7 +16614,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-02-01",
@@ -16614,7 +16626,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-03-01",
@@ -16626,7 +16638,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-04-01",
@@ -16638,7 +16650,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-05-01",
@@ -16650,7 +16662,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-06-01",
@@ -16662,7 +16674,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-07-01",
@@ -16674,7 +16686,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-08-01",
@@ -16686,7 +16698,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-09-01",
@@ -16698,7 +16710,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-10-01",
@@ -16710,7 +16722,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-11-01",
@@ -16722,7 +16734,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2022-12-01",
@@ -16734,7 +16746,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-01-01",
@@ -16746,7 +16758,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-02-01",
@@ -16758,7 +16770,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-03-01",
@@ -16770,7 +16782,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-04-01",
@@ -16782,7 +16794,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-05-01",
@@ -16794,7 +16806,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-06-01",
@@ -16806,7 +16818,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-07-01",
@@ -16818,7 +16830,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-08-01",
@@ -16830,7 +16842,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-09-01",
@@ -16842,7 +16854,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-10-01",
@@ -16854,7 +16866,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-11-01",
@@ -16866,7 +16878,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2023-12-01",
@@ -16878,7 +16890,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-01-01",
@@ -16890,7 +16902,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-02-01",
@@ -16902,7 +16914,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-03-01",
@@ -16914,7 +16926,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-04-01",
@@ -16926,7 +16938,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-05-01",
@@ -16938,7 +16950,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-06-01",
@@ -16950,7 +16962,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-07-01",
@@ -16962,7 +16974,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-08-01",
@@ -16974,7 +16986,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-09-01",
@@ -16986,7 +16998,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-10-01",
@@ -16998,7 +17010,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-11-01",
@@ -17010,7 +17022,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2024-12-01",
@@ -17022,7 +17034,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-01-01",
@@ -17034,7 +17046,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-02-01",
@@ -17046,7 +17058,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-03-01",
@@ -17058,7 +17070,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-04-01",
@@ -17070,7 +17082,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-05-01",
@@ -17082,7 +17094,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-06-01",
@@ -17094,7 +17106,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-07-01",
@@ -17106,7 +17118,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-08-01",
@@ -17118,7 +17130,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-09-01",
@@ -17130,7 +17142,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-10-01",
@@ -17142,7 +17154,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-11-01",
@@ -17154,7 +17166,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2025-12-01",
@@ -17166,7 +17178,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2026-01-01",
@@ -17178,7 +17190,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2026-02-01",
@@ -17190,7 +17202,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2026-03-01",
@@ -17202,7 +17214,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2026-04-01",
@@ -17214,7 +17226,7 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2026-05-01",
@@ -17226,7 +17238,19 @@
       "unit": "%",
       "source": "Japan e-Stat Dashboard",
       "seriesId": "JP-inflation_rate",
-      "updatedAt": "2026-07-19T05:34:13.943Z"
+      "updatedAt": "2026-07-24T20:40:54.505Z"
+    },
+    {
+      "date": "2026-06-01",
+      "period": "2026-06",
+      "frequency": "monthly",
+      "value": 1.7,
+      "rawValue": 1.7,
+      "normalizedValue": 1.7,
+      "unit": "%",
+      "source": "Japan e-Stat Dashboard",
+      "seriesId": "JP-inflation_rate",
+      "updatedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "date": "2016-09-21",
@@ -38644,6 +38668,17 @@
       "sourceUrl": "https://www.e-stat.go.jp/api/"
     },
     {
+      "seriesId": "JP-cpi",
+      "countryCode": "JP",
+      "indicatorKey": "cpi",
+      "eventType": "cpi_release",
+      "date": "2026-06-01",
+      "period": "2026-06",
+      "actual": 1.7,
+      "source": "Japan e-Stat Dashboard",
+      "sourceUrl": "https://www.e-stat.go.jp/api/"
+    },
+    {
       "seriesId": "JP-gdp_nominal",
       "countryCode": "JP",
       "indicatorKey": "gdp_nominal",
@@ -40917,6 +40952,17 @@
       "date": "2026-05-01",
       "period": "2026-05",
       "actual": 1.5,
+      "source": "Japan e-Stat Dashboard",
+      "sourceUrl": "https://www.e-stat.go.jp/api/"
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "countryCode": "JP",
+      "indicatorKey": "inflation_rate",
+      "eventType": "inflation_release",
+      "date": "2026-06-01",
+      "period": "2026-06",
+      "actual": 1.7,
       "source": "Japan e-Stat Dashboard",
       "sourceUrl": "https://www.e-stat.go.jp/api/"
     },
@@ -47673,7 +47719,7 @@
       "requiresApiKey": true,
       "status": "fresh",
       "coverage": "US GDP, CPI fallback, Fed policy rate",
-      "lastCheckedAt": "2026-07-23T15:25:05.702Z"
+      "lastCheckedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "key": "bls",
@@ -47683,7 +47729,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "US CPI monthly",
-      "lastCheckedAt": "2026-07-23T15:25:05.702Z"
+      "lastCheckedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "key": "dbnomics",
@@ -47693,7 +47739,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Free OECD/IMF/NBS mirror for Korea GDP/CPI and China GDP/CPI",
-      "lastCheckedAt": "2026-07-23T15:25:05.702Z"
+      "lastCheckedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "key": "world_bank",
@@ -47721,7 +47767,7 @@
       "requiresApiKey": false,
       "status": "failed",
       "coverage": "Taiwan CPI and central-bank policy-rate open data; GDP waits for a stable official quarterly level table",
-      "lastCheckedAt": "2026-07-23T15:25:05.702Z",
+      "lastCheckedAt": "2026-07-24T20:40:54.505Z",
       "errorMessage": "Source returned no observations"
     },
     {
@@ -47732,7 +47778,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Euro area GDP and HICP for investor-focused European macro",
-      "lastCheckedAt": "2026-07-23T15:25:05.702Z"
+      "lastCheckedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "key": "ecb",
@@ -47742,7 +47788,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Euro area policy rate and monetary policy events",
-      "lastCheckedAt": "2026-07-23T15:25:05.702Z"
+      "lastCheckedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "key": "bis",
@@ -47752,7 +47798,7 @@
       "requiresApiKey": false,
       "status": "stale",
       "coverage": "Cross-country policy-rate history fallback",
-      "lastCheckedAt": "2026-07-23T15:25:05.702Z",
+      "lastCheckedAt": "2026-07-24T20:40:54.505Z",
       "errorMessage": "Source has not published a new value yet"
     },
     {
@@ -47762,10 +47808,9 @@
       "priority": 42,
       "requiresApiKey": true,
       "registrationUrl": "https://www.e-stat.go.jp/api/api-dev/request",
-      "status": "stale",
+      "status": "fresh",
       "coverage": "Japan official GDP/CPI after free appId registration",
-      "lastCheckedAt": "2026-07-23T15:25:05.702Z",
-      "errorMessage": "Source has not published a new value yet"
+      "lastCheckedAt": "2026-07-24T20:40:54.505Z"
     },
     {
       "key": "china_nbs_dbnomics",
@@ -47775,7 +47820,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "China nominal GDP and CPI from NBS mirror with optional NBS EasyQuery direct reads; IMF CPI fills missing periods",
-      "lastCheckedAt": "2026-07-23T15:25:05.702Z"
+      "lastCheckedAt": "2026-07-24T20:40:54.505Z"
     }
   ],
   "dataQualityWarnings": [
@@ -49472,348 +49517,6 @@
       "difference": -4435162328507.641
     },
     {
-      "seriesId": "JP-cpi",
-      "period": "2024-06",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 2.8,
-      "comparisonValue": 2.7385,
-      "difference": 0.0615
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2024-07",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 2.8,
-      "comparisonValue": 2.7385,
-      "difference": 0.0615
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2024-08",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 3,
-      "comparisonValue": 2.7385,
-      "difference": 0.2615
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2024-09",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 2.5,
-      "comparisonValue": 2.7385,
-      "difference": -0.2385
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2024-10",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 2.3,
-      "comparisonValue": 2.7385,
-      "difference": -0.4385
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2024-11",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 2.9,
-      "comparisonValue": 2.7385,
-      "difference": 0.1615
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2024-12",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 3.6,
-      "comparisonValue": 2.7385,
-      "difference": 0.8615
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2025-01",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 4,
-      "comparisonValue": 3.1725,
-      "difference": 0.8275
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2025-02",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 3.7,
-      "comparisonValue": 3.1725,
-      "difference": 0.5275
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2025-03",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 3.6,
-      "comparisonValue": 3.1725,
-      "difference": 0.4275
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2025-04",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 3.6,
-      "comparisonValue": 3.1725,
-      "difference": 0.4275
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2025-05",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 3.5,
-      "comparisonValue": 3.1725,
-      "difference": 0.3275
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2025-06",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 3.3,
-      "comparisonValue": 3.1725,
-      "difference": 0.1275
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2025-07",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 3.1,
-      "comparisonValue": 3.1725,
-      "difference": -0.0725
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2025-08",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 2.7,
-      "comparisonValue": 3.1725,
-      "difference": -0.4725
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2025-09",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 2.9,
-      "comparisonValue": 3.1725,
-      "difference": -0.2725
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2025-10",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 3,
-      "comparisonValue": 3.1725,
-      "difference": -0.1725
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2025-11",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 2.9,
-      "comparisonValue": 3.1725,
-      "difference": -0.2725
-    },
-    {
-      "seriesId": "JP-cpi",
-      "period": "2025-12",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
-      "primaryValue": 2.1,
-      "comparisonValue": 3.1725,
-      "difference": -1.0725
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2024-06",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 2.8,
-      "comparisonValue": 2.7385,
-      "difference": 0.0615
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2024-07",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 2.8,
-      "comparisonValue": 2.7385,
-      "difference": 0.0615
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2024-08",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 3,
-      "comparisonValue": 2.7385,
-      "difference": 0.2615
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2024-09",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 2.5,
-      "comparisonValue": 2.7385,
-      "difference": -0.2385
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2024-10",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 2.3,
-      "comparisonValue": 2.7385,
-      "difference": -0.4385
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2024-11",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 2.9,
-      "comparisonValue": 2.7385,
-      "difference": 0.1615
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2024-12",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 3.6,
-      "comparisonValue": 2.7385,
-      "difference": 0.8615
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2025-01",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 4,
-      "comparisonValue": 3.1725,
-      "difference": 0.8275
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2025-02",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 3.7,
-      "comparisonValue": 3.1725,
-      "difference": 0.5275
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2025-03",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 3.6,
-      "comparisonValue": 3.1725,
-      "difference": 0.4275
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2025-04",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 3.6,
-      "comparisonValue": 3.1725,
-      "difference": 0.4275
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2025-05",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 3.5,
-      "comparisonValue": 3.1725,
-      "difference": 0.3275
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2025-06",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 3.3,
-      "comparisonValue": 3.1725,
-      "difference": 0.1275
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2025-07",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 3.1,
-      "comparisonValue": 3.1725,
-      "difference": -0.0725
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2025-08",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 2.7,
-      "comparisonValue": 3.1725,
-      "difference": -0.4725
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2025-09",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 2.9,
-      "comparisonValue": 3.1725,
-      "difference": -0.2725
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2025-10",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 3,
-      "comparisonValue": 3.1725,
-      "difference": -0.1725
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2025-11",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 2.9,
-      "comparisonValue": 3.1725,
-      "difference": -0.2725
-    },
-    {
-      "seriesId": "JP-inflation_rate",
-      "period": "2025-12",
-      "primarySource": "Japan e-Stat Dashboard",
-      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
-      "primaryValue": 2.1,
-      "comparisonValue": 3.1725,
-      "difference": -1.0725
-    },
-    {
       "seriesId": "KR-gdp_real",
       "period": "2018-Q1",
       "primarySource": "DBnomics OECD QNA",
@@ -51108,6 +50811,330 @@
       "primaryValue": 0.8,
       "comparisonValue": 0.0596,
       "difference": 0.7404
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2024-07",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 2.8,
+      "comparisonValue": 2.7385,
+      "difference": 0.0615
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2024-08",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 3,
+      "comparisonValue": 2.7385,
+      "difference": 0.2615
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2024-09",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 2.5,
+      "comparisonValue": 2.7385,
+      "difference": -0.2385
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2024-10",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 2.3,
+      "comparisonValue": 2.7385,
+      "difference": -0.4385
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2024-11",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 2.9,
+      "comparisonValue": 2.7385,
+      "difference": 0.1615
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2024-12",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 3.6,
+      "comparisonValue": 2.7385,
+      "difference": 0.8615
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2025-01",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 4,
+      "comparisonValue": 3.1725,
+      "difference": 0.8275
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2025-02",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 3.7,
+      "comparisonValue": 3.1725,
+      "difference": 0.5275
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2025-03",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 3.6,
+      "comparisonValue": 3.1725,
+      "difference": 0.4275
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2025-04",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 3.6,
+      "comparisonValue": 3.1725,
+      "difference": 0.4275
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2025-05",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 3.5,
+      "comparisonValue": 3.1725,
+      "difference": 0.3275
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2025-06",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 3.3,
+      "comparisonValue": 3.1725,
+      "difference": 0.1275
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2025-07",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 3.1,
+      "comparisonValue": 3.1725,
+      "difference": -0.0725
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2025-08",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 2.7,
+      "comparisonValue": 3.1725,
+      "difference": -0.4725
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2025-09",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 2.9,
+      "comparisonValue": 3.1725,
+      "difference": -0.2725
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2025-10",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 3,
+      "comparisonValue": 3.1725,
+      "difference": -0.1725
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2025-11",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 2.9,
+      "comparisonValue": 3.1725,
+      "difference": -0.2725
+    },
+    {
+      "seriesId": "JP-cpi",
+      "period": "2025-12",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL)",
+      "primaryValue": 2.1,
+      "comparisonValue": 3.1725,
+      "difference": -1.0725
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2024-07",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 2.8,
+      "comparisonValue": 2.7385,
+      "difference": 0.0615
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2024-08",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 3,
+      "comparisonValue": 2.7385,
+      "difference": 0.2615
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2024-09",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 2.5,
+      "comparisonValue": 2.7385,
+      "difference": -0.2385
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2024-10",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 2.3,
+      "comparisonValue": 2.7385,
+      "difference": -0.4385
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2024-11",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 2.9,
+      "comparisonValue": 2.7385,
+      "difference": 0.1615
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2024-12",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 3.6,
+      "comparisonValue": 2.7385,
+      "difference": 0.8615
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2025-01",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 4,
+      "comparisonValue": 3.1725,
+      "difference": 0.8275
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2025-02",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 3.7,
+      "comparisonValue": 3.1725,
+      "difference": 0.5275
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2025-03",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 3.6,
+      "comparisonValue": 3.1725,
+      "difference": 0.4275
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2025-04",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 3.6,
+      "comparisonValue": 3.1725,
+      "difference": 0.4275
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2025-05",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 3.5,
+      "comparisonValue": 3.1725,
+      "difference": 0.3275
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2025-06",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 3.3,
+      "comparisonValue": 3.1725,
+      "difference": 0.1275
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2025-07",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 3.1,
+      "comparisonValue": 3.1725,
+      "difference": -0.0725
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2025-08",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 2.7,
+      "comparisonValue": 3.1725,
+      "difference": -0.4725
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2025-09",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 2.9,
+      "comparisonValue": 3.1725,
+      "difference": -0.2725
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2025-10",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 3,
+      "comparisonValue": 3.1725,
+      "difference": -0.1725
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2025-11",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 2.9,
+      "comparisonValue": 3.1725,
+      "difference": -0.2725
+    },
+    {
+      "seriesId": "JP-inflation_rate",
+      "period": "2025-12",
+      "primarySource": "Japan e-Stat Dashboard",
+      "comparisonSource": "World Bank API (FP.CPI.TOTL.ZG)",
+      "primaryValue": 2.1,
+      "comparisonValue": 3.1725,
+      "difference": -1.0725
     }
   ],
   "syncState": {
@@ -51184,18 +51211,16 @@
       "retryCount": 0
     },
     "JP-cpi": {
-      "lastAttemptAt": "2026-07-23T15:25:05.702Z",
-      "lastSuccessAt": "2026-07-19T05:34:13.943Z",
-      "nextReleaseDate": "2026-07-24T15:25:05.702Z",
-      "retryCount": 2,
-      "errorMessage": "Source has not published a new value yet"
+      "lastAttemptAt": "2026-07-24T20:40:54.505Z",
+      "lastSuccessAt": "2026-07-24T20:40:54.505Z",
+      "nextReleaseDate": "2026-08-22T08:00:00.000Z",
+      "retryCount": 0
     },
     "JP-inflation_rate": {
-      "lastAttemptAt": "2026-07-23T15:25:05.702Z",
-      "lastSuccessAt": "2026-07-19T05:34:13.943Z",
-      "nextReleaseDate": "2026-07-24T15:25:05.702Z",
-      "retryCount": 2,
-      "errorMessage": "Source has not published a new value yet"
+      "lastAttemptAt": "2026-07-24T20:40:54.505Z",
+      "lastSuccessAt": "2026-07-24T20:40:54.505Z",
+      "nextReleaseDate": "2026-08-22T08:00:00.000Z",
+      "retryCount": 0
     },
     "JP-policy_rate": {
       "lastAttemptAt": "2026-07-19T05:34:13.943Z",
