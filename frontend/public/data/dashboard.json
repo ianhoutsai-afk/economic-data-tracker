@@ -1,6 +1,6 @@
 {
   "snapshotVersion": 1,
-  "generatedAt": "2026-08-20T13:59:17.496Z",
+  "generatedAt": "2026-08-21T19:36:51.047Z",
   "countries": [
     {
       "code": "US",
@@ -144,7 +144,7 @@
       "sourceStatus": "stale",
       "providerKey": "bis",
       "lastSyncedAt": "2026-08-16T03:16:12.640Z",
-      "nextReleaseDate": "2026-08-21T13:59:17.496Z"
+      "nextReleaseDate": "2026-08-22T19:36:51.047Z"
     },
     {
       "id": "EU-cpi",
@@ -47796,7 +47796,7 @@
       "requiresApiKey": true,
       "status": "fresh",
       "coverage": "US GDP, CPI fallback, Fed policy rate",
-      "lastCheckedAt": "2026-08-20T13:59:17.496Z"
+      "lastCheckedAt": "2026-08-21T19:36:51.047Z"
     },
     {
       "key": "bls",
@@ -47806,7 +47806,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "US CPI monthly",
-      "lastCheckedAt": "2026-08-20T13:59:17.496Z"
+      "lastCheckedAt": "2026-08-21T19:36:51.047Z"
     },
     {
       "key": "dbnomics",
@@ -47816,7 +47816,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Free OECD/IMF/NBS mirror for Korea GDP/CPI and China GDP/CPI",
-      "lastCheckedAt": "2026-08-20T13:59:17.496Z"
+      "lastCheckedAt": "2026-08-21T19:36:51.047Z"
     },
     {
       "key": "world_bank",
@@ -47844,7 +47844,7 @@
       "requiresApiKey": false,
       "status": "failed",
       "coverage": "Taiwan CPI and central-bank policy-rate open data; GDP waits for a stable official quarterly level table",
-      "lastCheckedAt": "2026-08-20T13:59:17.496Z",
+      "lastCheckedAt": "2026-08-21T19:36:51.047Z",
       "errorMessage": "Source returned no observations"
     },
     {
@@ -47855,7 +47855,7 @@
       "requiresApiKey": false,
       "status": "stale",
       "coverage": "Euro area GDP and HICP for investor-focused European macro",
-      "lastCheckedAt": "2026-08-20T13:59:17.496Z",
+      "lastCheckedAt": "2026-08-21T19:36:51.047Z",
       "errorMessage": "Source has not published a new value yet"
     },
     {
@@ -47866,7 +47866,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Euro area policy rate and monetary policy events",
-      "lastCheckedAt": "2026-08-20T13:59:17.496Z"
+      "lastCheckedAt": "2026-08-21T19:36:51.047Z"
     },
     {
       "key": "bis",
@@ -47876,7 +47876,7 @@
       "requiresApiKey": false,
       "status": "stale",
       "coverage": "Cross-country policy-rate history fallback",
-      "lastCheckedAt": "2026-08-20T13:59:17.496Z",
+      "lastCheckedAt": "2026-08-21T19:36:51.047Z",
       "errorMessage": "Source has not published a new value yet"
     },
     {
@@ -47888,7 +47888,7 @@
       "registrationUrl": "https://www.e-stat.go.jp/api/api-dev/request",
       "status": "fresh",
       "coverage": "Japan official GDP/CPI after free appId registration",
-      "lastCheckedAt": "2026-08-20T13:59:17.496Z"
+      "lastCheckedAt": "2026-08-21T19:36:51.047Z"
     },
     {
       "key": "china_nbs_dbnomics",
@@ -47898,7 +47898,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "China nominal GDP and CPI from NBS mirror with optional NBS EasyQuery direct reads; IMF CPI fills missing periods",
-      "lastCheckedAt": "2026-08-20T13:59:17.496Z"
+      "lastCheckedAt": "2026-08-21T19:36:51.047Z"
     }
   ],
   "dataQualityWarnings": [
@@ -50925,10 +50925,10 @@
       "retryCount": 0
     },
     "CN-lpr": {
-      "lastAttemptAt": "2026-08-20T13:59:17.496Z",
+      "lastAttemptAt": "2026-08-21T19:36:51.047Z",
       "lastSuccessAt": "2026-08-16T03:16:12.640Z",
-      "nextReleaseDate": "2026-08-21T13:59:17.496Z",
-      "retryCount": 1,
+      "nextReleaseDate": "2026-08-22T19:36:51.047Z",
+      "retryCount": 2,
       "errorMessage": "Source has not published a new value yet"
     },
     "TW-cpi": {
