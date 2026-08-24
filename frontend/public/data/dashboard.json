@@ -1,6 +1,6 @@
 {
   "snapshotVersion": 1,
-  "generatedAt": "2026-08-23T03:26:17.145Z",
+  "generatedAt": "2026-08-24T08:03:57.193Z",
   "countries": [
     {
       "code": "US",
@@ -206,10 +206,10 @@
       "unit": "%",
       "sourceUrl": "https://data-api.ecb.europa.eu/service/data/FM/D.U2.EUR.4F.KR.MRR_FR.LEV",
       "status": "real",
-      "sourceStatus": "stale",
+      "sourceStatus": "fresh",
       "providerKey": "ecb",
-      "lastSyncedAt": "2026-08-16T03:16:12.640Z",
-      "nextReleaseDate": "2026-08-24T03:26:17.145Z"
+      "lastSyncedAt": "2026-08-24T08:03:57.193Z",
+      "nextReleaseDate": "2026-10-05T08:00:00.000Z"
     },
     {
       "id": "JP-cpi",
@@ -13011,7 +13011,7 @@
       "normalizedValue": 0.05,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2016-03-16",
@@ -13022,7 +13022,7 @@
       "normalizedValue": 0,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2022-07-27",
@@ -13033,7 +13033,7 @@
       "normalizedValue": 0.5,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2022-09-14",
@@ -13044,7 +13044,7 @@
       "normalizedValue": 1.25,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2022-11-02",
@@ -13055,7 +13055,7 @@
       "normalizedValue": 2,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2022-12-21",
@@ -13066,7 +13066,7 @@
       "normalizedValue": 2.5,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2023-02-08",
@@ -13077,7 +13077,7 @@
       "normalizedValue": 3,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2023-03-22",
@@ -13088,7 +13088,7 @@
       "normalizedValue": 3.5,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2023-05-10",
@@ -13099,7 +13099,7 @@
       "normalizedValue": 3.75,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2023-06-21",
@@ -13110,7 +13110,7 @@
       "normalizedValue": 4,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2023-08-02",
@@ -13121,7 +13121,7 @@
       "normalizedValue": 4.25,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2023-09-20",
@@ -13132,7 +13132,7 @@
       "normalizedValue": 4.5,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2024-06-12",
@@ -13143,7 +13143,7 @@
       "normalizedValue": 4.25,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2024-09-18",
@@ -13154,7 +13154,7 @@
       "normalizedValue": 3.65,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2024-10-23",
@@ -13165,7 +13165,7 @@
       "normalizedValue": 3.4,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2024-12-18",
@@ -13176,7 +13176,7 @@
       "normalizedValue": 3.15,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2025-02-05",
@@ -13187,7 +13187,7 @@
       "normalizedValue": 2.9,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2025-03-12",
@@ -13198,7 +13198,7 @@
       "normalizedValue": 2.65,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2025-04-23",
@@ -13209,7 +13209,7 @@
       "normalizedValue": 2.4,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2025-06-11",
@@ -13220,7 +13220,7 @@
       "normalizedValue": 2.15,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2026-06-17",
@@ -13231,7 +13231,7 @@
       "normalizedValue": 2.4,
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
-      "updatedAt": "2026-08-16T03:16:12.640Z"
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2026-08-15",
@@ -13243,6 +13243,17 @@
       "source": "ECB Data Portal",
       "seriesId": "EU-policy_rate",
       "updatedAt": "2026-08-16T03:16:12.640Z"
+    },
+    {
+      "date": "2026-08-24",
+      "period": "2026-08-24",
+      "frequency": "event",
+      "value": 2.4,
+      "rawValue": 2.4,
+      "normalizedValue": 2.4,
+      "source": "ECB Data Portal",
+      "seriesId": "EU-policy_rate",
+      "updatedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "date": "2016-01-01",
@@ -47888,7 +47899,7 @@
       "requiresApiKey": true,
       "status": "fresh",
       "coverage": "US GDP, CPI fallback, Fed policy rate",
-      "lastCheckedAt": "2026-08-23T03:26:17.145Z"
+      "lastCheckedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "key": "bls",
@@ -47898,7 +47909,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "US CPI monthly",
-      "lastCheckedAt": "2026-08-23T03:26:17.145Z"
+      "lastCheckedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "key": "dbnomics",
@@ -47908,7 +47919,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Free OECD/IMF/NBS mirror for Korea GDP/CPI and China GDP/CPI",
-      "lastCheckedAt": "2026-08-23T03:26:17.145Z"
+      "lastCheckedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "key": "world_bank",
@@ -47936,7 +47947,7 @@
       "requiresApiKey": false,
       "status": "failed",
       "coverage": "Taiwan CPI and central-bank policy-rate open data; GDP waits for a stable official quarterly level table",
-      "lastCheckedAt": "2026-08-23T03:26:17.145Z",
+      "lastCheckedAt": "2026-08-24T08:03:57.193Z",
       "errorMessage": "Source returned no observations"
     },
     {
@@ -47947,7 +47958,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Euro area GDP and HICP for investor-focused European macro",
-      "lastCheckedAt": "2026-08-23T03:26:17.145Z"
+      "lastCheckedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "key": "ecb",
@@ -47955,10 +47966,9 @@
       "sourceUrl": "https://data.ecb.europa.eu/help/api/overview",
       "priority": 35,
       "requiresApiKey": false,
-      "status": "stale",
+      "status": "fresh",
       "coverage": "Euro area policy rate and monetary policy events",
-      "lastCheckedAt": "2026-08-23T03:26:17.145Z",
-      "errorMessage": "fetch failed"
+      "lastCheckedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "key": "bis",
@@ -47968,7 +47978,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Cross-country policy-rate history fallback",
-      "lastCheckedAt": "2026-08-23T03:26:17.145Z"
+      "lastCheckedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "key": "estat",
@@ -47979,7 +47989,7 @@
       "registrationUrl": "https://www.e-stat.go.jp/api/api-dev/request",
       "status": "fresh",
       "coverage": "Japan official GDP/CPI after free appId registration",
-      "lastCheckedAt": "2026-08-23T03:26:17.145Z"
+      "lastCheckedAt": "2026-08-24T08:03:57.193Z"
     },
     {
       "key": "china_nbs_dbnomics",
@@ -47989,7 +47999,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "China nominal GDP and CPI from NBS mirror with optional NBS EasyQuery direct reads; IMF CPI fills missing periods",
-      "lastCheckedAt": "2026-08-23T03:26:17.145Z"
+      "lastCheckedAt": "2026-08-24T08:03:57.193Z"
     }
   ],
   "dataQualityWarnings": [
@@ -51308,11 +51318,10 @@
       "retryCount": 0
     },
     "EU-policy_rate": {
-      "lastAttemptAt": "2026-08-23T03:26:17.145Z",
-      "lastSuccessAt": "2026-08-16T03:16:12.640Z",
-      "nextReleaseDate": "2026-08-24T03:26:17.145Z",
-      "retryCount": 1,
-      "errorMessage": "fetch failed"
+      "lastAttemptAt": "2026-08-24T08:03:57.193Z",
+      "lastSuccessAt": "2026-08-24T08:03:57.193Z",
+      "nextReleaseDate": "2026-10-05T08:00:00.000Z",
+      "retryCount": 0
     },
     "JP-gdp_real": {
       "lastAttemptAt": "2026-08-23T03:26:17.145Z",
