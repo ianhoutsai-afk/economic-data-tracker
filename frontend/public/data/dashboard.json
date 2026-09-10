@@ -1,6 +1,6 @@
 {
   "snapshotVersion": 1,
-  "generatedAt": "2026-09-08T12:08:11.543Z",
+  "generatedAt": "2026-09-10T12:13:39.550Z",
   "countries": [
     {
       "code": "US",
@@ -92,10 +92,10 @@
       "unit": "YoY %",
       "sourceUrl": "https://api.db.nomics.world/v22/datasets/NBS",
       "status": "real",
-      "sourceStatus": "fresh",
+      "sourceStatus": "stale",
       "providerKey": "china_nbs_dbnomics",
       "lastSyncedAt": "2026-09-06T07:11:22.891Z",
-      "nextReleaseDate": "2026-09-10T08:00:00.000Z"
+      "nextReleaseDate": "2026-09-11T12:13:39.550Z"
     },
     {
       "id": "CN-gdp_nominal",
@@ -128,10 +128,10 @@
       "unit": "%",
       "sourceUrl": "https://api.db.nomics.world/v22/datasets/NBS",
       "status": "real",
-      "sourceStatus": "fresh",
+      "sourceStatus": "stale",
       "providerKey": "china_nbs_dbnomics",
       "lastSyncedAt": "2026-09-06T07:11:22.891Z",
-      "nextReleaseDate": "2026-09-10T08:00:00.000Z"
+      "nextReleaseDate": "2026-09-11T12:13:39.550Z"
     },
     {
       "id": "CN-lpr",
@@ -47899,7 +47899,7 @@
       "requiresApiKey": true,
       "status": "fresh",
       "coverage": "US GDP, CPI fallback, Fed policy rate",
-      "lastCheckedAt": "2026-09-08T12:08:11.543Z"
+      "lastCheckedAt": "2026-09-10T12:13:39.550Z"
     },
     {
       "key": "bls",
@@ -47909,7 +47909,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "US CPI monthly",
-      "lastCheckedAt": "2026-09-08T12:08:11.543Z"
+      "lastCheckedAt": "2026-09-10T12:13:39.550Z"
     },
     {
       "key": "dbnomics",
@@ -47919,7 +47919,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Free OECD/IMF/NBS mirror for Korea GDP/CPI and China GDP/CPI",
-      "lastCheckedAt": "2026-09-08T12:08:11.543Z"
+      "lastCheckedAt": "2026-09-10T12:13:39.550Z"
     },
     {
       "key": "world_bank",
@@ -47947,7 +47947,7 @@
       "requiresApiKey": false,
       "status": "failed",
       "coverage": "Taiwan CPI and central-bank policy-rate open data; GDP waits for a stable official quarterly level table",
-      "lastCheckedAt": "2026-09-08T12:08:11.543Z",
+      "lastCheckedAt": "2026-09-10T12:13:39.550Z",
       "errorMessage": "Source returned no observations"
     },
     {
@@ -47958,7 +47958,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Euro area GDP and HICP for investor-focused European macro",
-      "lastCheckedAt": "2026-09-08T12:08:11.543Z"
+      "lastCheckedAt": "2026-09-10T12:13:39.550Z"
     },
     {
       "key": "ecb",
@@ -47968,7 +47968,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Euro area policy rate and monetary policy events",
-      "lastCheckedAt": "2026-09-08T12:08:11.543Z"
+      "lastCheckedAt": "2026-09-10T12:13:39.550Z"
     },
     {
       "key": "bis",
@@ -47978,7 +47978,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Cross-country policy-rate history fallback",
-      "lastCheckedAt": "2026-09-08T12:08:11.543Z"
+      "lastCheckedAt": "2026-09-10T12:13:39.550Z"
     },
     {
       "key": "estat",
@@ -47989,7 +47989,7 @@
       "registrationUrl": "https://www.e-stat.go.jp/api/api-dev/request",
       "status": "fresh",
       "coverage": "Japan official GDP/CPI after free appId registration",
-      "lastCheckedAt": "2026-09-08T12:08:11.543Z"
+      "lastCheckedAt": "2026-09-10T12:13:39.550Z"
     },
     {
       "key": "china_nbs_dbnomics",
@@ -47997,9 +47997,10 @@
       "sourceUrl": "https://api.db.nomics.world/v22/datasets/NBS",
       "priority": 45,
       "requiresApiKey": false,
-      "status": "fresh",
+      "status": "stale",
       "coverage": "China nominal GDP and CPI from NBS mirror with optional NBS EasyQuery direct reads; IMF CPI fills missing periods",
-      "lastCheckedAt": "2026-09-08T12:08:11.543Z"
+      "lastCheckedAt": "2026-09-10T12:13:39.550Z",
+      "errorMessage": "Source has not published a new value yet"
     }
   ],
   "dataQualityWarnings": [
@@ -51390,16 +51391,18 @@
       "retryCount": 0
     },
     "CN-cpi": {
-      "lastAttemptAt": "2026-09-06T07:11:22.891Z",
+      "lastAttemptAt": "2026-09-10T12:13:39.550Z",
       "lastSuccessAt": "2026-09-06T07:11:22.891Z",
-      "nextReleaseDate": "2026-09-10T08:00:00.000Z",
-      "retryCount": 0
+      "nextReleaseDate": "2026-09-11T12:13:39.550Z",
+      "retryCount": 1,
+      "errorMessage": "Source has not published a new value yet"
     },
     "CN-inflation_rate": {
-      "lastAttemptAt": "2026-09-06T07:11:22.891Z",
+      "lastAttemptAt": "2026-09-10T12:13:39.550Z",
       "lastSuccessAt": "2026-09-06T07:11:22.891Z",
-      "nextReleaseDate": "2026-09-10T08:00:00.000Z",
-      "retryCount": 0
+      "nextReleaseDate": "2026-09-11T12:13:39.550Z",
+      "retryCount": 1,
+      "errorMessage": "Source has not published a new value yet"
     },
     "CN-lpr": {
       "lastAttemptAt": "2026-09-06T07:11:22.891Z",
