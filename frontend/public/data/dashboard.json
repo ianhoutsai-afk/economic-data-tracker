@@ -1,6 +1,6 @@
 {
   "snapshotVersion": 1,
-  "generatedAt": "2026-09-11T17:01:29.935Z",
+  "generatedAt": "2026-09-12T21:26:51.800Z",
   "countries": [
     {
       "code": "US",
@@ -95,7 +95,7 @@
       "sourceStatus": "stale",
       "providerKey": "china_nbs_dbnomics",
       "lastSyncedAt": "2026-09-06T07:11:22.891Z",
-      "nextReleaseDate": "2026-09-12T17:01:29.935Z"
+      "nextReleaseDate": "2026-10-10T08:00:00.000Z"
     },
     {
       "id": "CN-gdp_nominal",
@@ -131,7 +131,7 @@
       "sourceStatus": "stale",
       "providerKey": "china_nbs_dbnomics",
       "lastSyncedAt": "2026-09-06T07:11:22.891Z",
-      "nextReleaseDate": "2026-09-12T17:01:29.935Z"
+      "nextReleaseDate": "2026-10-10T08:00:00.000Z"
     },
     {
       "id": "CN-lpr",
@@ -47899,7 +47899,7 @@
       "requiresApiKey": true,
       "status": "fresh",
       "coverage": "US GDP, CPI fallback, Fed policy rate",
-      "lastCheckedAt": "2026-09-11T17:01:29.935Z"
+      "lastCheckedAt": "2026-09-12T21:26:51.800Z"
     },
     {
       "key": "bls",
@@ -47909,7 +47909,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "US CPI monthly",
-      "lastCheckedAt": "2026-09-11T17:01:29.935Z"
+      "lastCheckedAt": "2026-09-12T21:26:51.800Z"
     },
     {
       "key": "dbnomics",
@@ -47919,7 +47919,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Free OECD/IMF/NBS mirror for Korea GDP/CPI and China GDP/CPI",
-      "lastCheckedAt": "2026-09-11T17:01:29.935Z"
+      "lastCheckedAt": "2026-09-12T21:26:51.800Z"
     },
     {
       "key": "world_bank",
@@ -47947,7 +47947,7 @@
       "requiresApiKey": false,
       "status": "failed",
       "coverage": "Taiwan CPI and central-bank policy-rate open data; GDP waits for a stable official quarterly level table",
-      "lastCheckedAt": "2026-09-11T17:01:29.935Z",
+      "lastCheckedAt": "2026-09-12T21:26:51.800Z",
       "errorMessage": "Source returned no observations"
     },
     {
@@ -47958,7 +47958,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Euro area GDP and HICP for investor-focused European macro",
-      "lastCheckedAt": "2026-09-11T17:01:29.935Z"
+      "lastCheckedAt": "2026-09-12T21:26:51.800Z"
     },
     {
       "key": "ecb",
@@ -47968,7 +47968,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Euro area policy rate and monetary policy events",
-      "lastCheckedAt": "2026-09-11T17:01:29.935Z"
+      "lastCheckedAt": "2026-09-12T21:26:51.800Z"
     },
     {
       "key": "bis",
@@ -47978,7 +47978,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Cross-country policy-rate history fallback",
-      "lastCheckedAt": "2026-09-11T17:01:29.935Z"
+      "lastCheckedAt": "2026-09-12T21:26:51.800Z"
     },
     {
       "key": "estat",
@@ -47989,7 +47989,7 @@
       "registrationUrl": "https://www.e-stat.go.jp/api/api-dev/request",
       "status": "fresh",
       "coverage": "Japan official GDP/CPI after free appId registration",
-      "lastCheckedAt": "2026-09-11T17:01:29.935Z"
+      "lastCheckedAt": "2026-09-12T21:26:51.800Z"
     },
     {
       "key": "china_nbs_dbnomics",
@@ -47999,7 +47999,7 @@
       "requiresApiKey": false,
       "status": "stale",
       "coverage": "China nominal GDP and CPI from NBS mirror with optional NBS EasyQuery direct reads; IMF CPI fills missing periods",
-      "lastCheckedAt": "2026-09-11T17:01:29.935Z",
+      "lastCheckedAt": "2026-09-12T21:26:51.800Z",
       "errorMessage": "Source has not published a new value yet"
     }
   ],
@@ -51391,17 +51391,17 @@
       "retryCount": 0
     },
     "CN-cpi": {
-      "lastAttemptAt": "2026-09-11T17:01:29.935Z",
+      "lastAttemptAt": "2026-09-12T21:26:51.800Z",
       "lastSuccessAt": "2026-09-06T07:11:22.891Z",
-      "nextReleaseDate": "2026-09-12T17:01:29.935Z",
-      "retryCount": 2,
+      "nextReleaseDate": "2026-10-10T08:00:00.000Z",
+      "retryCount": 3,
       "errorMessage": "Source has not published a new value yet"
     },
     "CN-inflation_rate": {
-      "lastAttemptAt": "2026-09-11T17:01:29.935Z",
+      "lastAttemptAt": "2026-09-12T21:26:51.800Z",
       "lastSuccessAt": "2026-09-06T07:11:22.891Z",
-      "nextReleaseDate": "2026-09-12T17:01:29.935Z",
-      "retryCount": 2,
+      "nextReleaseDate": "2026-10-10T08:00:00.000Z",
+      "retryCount": 3,
       "errorMessage": "Source has not published a new value yet"
     },
     "CN-lpr": {
