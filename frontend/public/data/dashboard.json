@@ -1,6 +1,6 @@
 {
   "snapshotVersion": 1,
-  "generatedAt": "2026-09-20T07:48:28.561Z",
+  "generatedAt": "2026-09-20T12:21:56.919Z",
   "countries": [
     {
       "code": "US",
@@ -141,10 +141,10 @@
       "unit": "%",
       "sourceUrl": "https://data.bis.org/topics/CBPOL",
       "status": "real",
-      "sourceStatus": "fresh",
+      "sourceStatus": "stale",
       "providerKey": "bis",
       "lastSyncedAt": "2026-09-20T07:48:28.561Z",
-      "nextReleaseDate": "2026-09-20T08:00:00.000Z"
+      "nextReleaseDate": "2026-09-21T12:21:56.919Z"
     },
     {
       "id": "EU-cpi",
@@ -48033,7 +48033,7 @@
       "requiresApiKey": true,
       "status": "fresh",
       "coverage": "US GDP, CPI fallback, Fed policy rate",
-      "lastCheckedAt": "2026-09-20T07:48:28.561Z"
+      "lastCheckedAt": "2026-09-20T12:21:56.919Z"
     },
     {
       "key": "bls",
@@ -48043,7 +48043,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "US CPI monthly",
-      "lastCheckedAt": "2026-09-20T07:48:28.561Z"
+      "lastCheckedAt": "2026-09-20T12:21:56.919Z"
     },
     {
       "key": "dbnomics",
@@ -48053,7 +48053,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Free OECD/IMF/NBS mirror for Korea GDP/CPI and China GDP/CPI",
-      "lastCheckedAt": "2026-09-20T07:48:28.561Z"
+      "lastCheckedAt": "2026-09-20T12:21:56.919Z"
     },
     {
       "key": "world_bank",
@@ -48081,7 +48081,7 @@
       "requiresApiKey": false,
       "status": "failed",
       "coverage": "Taiwan CPI and central-bank policy-rate open data; GDP waits for a stable official quarterly level table",
-      "lastCheckedAt": "2026-09-20T07:48:28.561Z",
+      "lastCheckedAt": "2026-09-20T12:21:56.919Z",
       "errorMessage": "Source returned no observations"
     },
     {
@@ -48092,7 +48092,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Euro area GDP and HICP for investor-focused European macro",
-      "lastCheckedAt": "2026-09-20T07:48:28.561Z"
+      "lastCheckedAt": "2026-09-20T12:21:56.919Z"
     },
     {
       "key": "ecb",
@@ -48102,7 +48102,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Euro area policy rate and monetary policy events",
-      "lastCheckedAt": "2026-09-20T07:48:28.561Z"
+      "lastCheckedAt": "2026-09-20T12:21:56.919Z"
     },
     {
       "key": "bis",
@@ -48110,9 +48110,10 @@
       "sourceUrl": "https://data.bis.org/topics/CBPOL",
       "priority": 40,
       "requiresApiKey": false,
-      "status": "fresh",
+      "status": "stale",
       "coverage": "Cross-country policy-rate history fallback",
-      "lastCheckedAt": "2026-09-20T07:48:28.561Z"
+      "lastCheckedAt": "2026-09-20T12:21:56.919Z",
+      "errorMessage": "Source has not published a new value yet"
     },
     {
       "key": "estat",
@@ -48123,7 +48124,7 @@
       "registrationUrl": "https://www.e-stat.go.jp/api/api-dev/request",
       "status": "fresh",
       "coverage": "Japan official GDP/CPI after free appId registration",
-      "lastCheckedAt": "2026-09-20T07:48:28.561Z"
+      "lastCheckedAt": "2026-09-20T12:21:56.919Z"
     },
     {
       "key": "china_nbs_dbnomics",
@@ -48133,7 +48134,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "China nominal GDP and CPI from NBS mirror with optional NBS EasyQuery direct reads; IMF CPI fills missing periods",
-      "lastCheckedAt": "2026-09-20T07:48:28.561Z"
+      "lastCheckedAt": "2026-09-20T12:21:56.919Z"
     }
   ],
   "dataQualityWarnings": [
@@ -51500,10 +51501,11 @@
       "retryCount": 0
     },
     "CN-lpr": {
-      "lastAttemptAt": "2026-09-20T07:48:28.561Z",
+      "lastAttemptAt": "2026-09-20T12:21:56.919Z",
       "lastSuccessAt": "2026-09-20T07:48:28.561Z",
-      "nextReleaseDate": "2026-09-20T08:00:00.000Z",
-      "retryCount": 0
+      "nextReleaseDate": "2026-09-21T12:21:56.919Z",
+      "retryCount": 1,
+      "errorMessage": "Source has not published a new value yet"
     },
     "TW-cpi": {
       "retryCount": 18,
