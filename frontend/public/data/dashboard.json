@@ -1,6 +1,6 @@
 {
   "snapshotVersion": 1,
-  "generatedAt": "2026-11-19T21:32:16.126Z",
+  "generatedAt": "2026-11-20T08:31:54.382Z",
   "countries": [
     {
       "code": "US",
@@ -143,8 +143,8 @@
       "status": "real",
       "sourceStatus": "fresh",
       "providerKey": "bis",
-      "lastSyncedAt": "2026-11-15T09:37:06.982Z",
-      "nextReleaseDate": "2026-11-20T08:00:00.000Z"
+      "lastSyncedAt": "2026-11-20T08:31:54.382Z",
+      "nextReleaseDate": "2026-12-20T08:00:00.000Z"
     },
     {
       "id": "EU-cpi",
@@ -3476,7 +3476,7 @@
       "normalizedValue": 4.35,
       "source": "BIS WS_CBPOL",
       "seriesId": "CN-lpr",
-      "updatedAt": "2026-11-15T09:37:06.982Z"
+      "updatedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "date": "2019-08-20",
@@ -3487,7 +3487,7 @@
       "normalizedValue": 4.25,
       "source": "BIS WS_CBPOL",
       "seriesId": "CN-lpr",
-      "updatedAt": "2026-11-15T09:37:06.982Z"
+      "updatedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "date": "2019-09-20",
@@ -3498,7 +3498,7 @@
       "normalizedValue": 4.2,
       "source": "BIS WS_CBPOL",
       "seriesId": "CN-lpr",
-      "updatedAt": "2026-11-15T09:37:06.982Z"
+      "updatedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "date": "2019-11-20",
@@ -3509,7 +3509,7 @@
       "normalizedValue": 4.15,
       "source": "BIS WS_CBPOL",
       "seriesId": "CN-lpr",
-      "updatedAt": "2026-11-15T09:37:06.982Z"
+      "updatedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "date": "2020-02-20",
@@ -3520,7 +3520,7 @@
       "normalizedValue": 4.05,
       "source": "BIS WS_CBPOL",
       "seriesId": "CN-lpr",
-      "updatedAt": "2026-11-15T09:37:06.982Z"
+      "updatedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "date": "2020-04-20",
@@ -3531,7 +3531,7 @@
       "normalizedValue": 3.85,
       "source": "BIS WS_CBPOL",
       "seriesId": "CN-lpr",
-      "updatedAt": "2026-11-15T09:37:06.982Z"
+      "updatedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "date": "2021-12-20",
@@ -3542,7 +3542,7 @@
       "normalizedValue": 3.8,
       "source": "BIS WS_CBPOL",
       "seriesId": "CN-lpr",
-      "updatedAt": "2026-11-15T09:37:06.982Z"
+      "updatedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "date": "2022-01-20",
@@ -3553,7 +3553,7 @@
       "normalizedValue": 3.7,
       "source": "BIS WS_CBPOL",
       "seriesId": "CN-lpr",
-      "updatedAt": "2026-11-15T09:37:06.982Z"
+      "updatedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "date": "2022-08-20",
@@ -3564,7 +3564,7 @@
       "normalizedValue": 3.65,
       "source": "BIS WS_CBPOL",
       "seriesId": "CN-lpr",
-      "updatedAt": "2026-11-15T09:37:06.982Z"
+      "updatedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "date": "2023-06-20",
@@ -3575,7 +3575,7 @@
       "normalizedValue": 3.55,
       "source": "BIS WS_CBPOL",
       "seriesId": "CN-lpr",
-      "updatedAt": "2026-11-15T09:37:06.982Z"
+      "updatedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "date": "2023-08-20",
@@ -3586,7 +3586,7 @@
       "normalizedValue": 3.45,
       "source": "BIS WS_CBPOL",
       "seriesId": "CN-lpr",
-      "updatedAt": "2026-11-15T09:37:06.982Z"
+      "updatedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "date": "2024-07-22",
@@ -3597,7 +3597,7 @@
       "normalizedValue": 3.35,
       "source": "BIS WS_CBPOL",
       "seriesId": "CN-lpr",
-      "updatedAt": "2026-11-15T09:37:06.982Z"
+      "updatedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "date": "2024-10-21",
@@ -3608,7 +3608,7 @@
       "normalizedValue": 3.1,
       "source": "BIS WS_CBPOL",
       "seriesId": "CN-lpr",
-      "updatedAt": "2026-11-15T09:37:06.982Z"
+      "updatedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "date": "2025-05-20",
@@ -3619,7 +3619,7 @@
       "normalizedValue": 3,
       "source": "BIS WS_CBPOL",
       "seriesId": "CN-lpr",
-      "updatedAt": "2026-11-15T09:37:06.982Z"
+      "updatedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "date": "2026-11-10",
@@ -3631,6 +3631,17 @@
       "source": "BIS WS_CBPOL",
       "seriesId": "CN-lpr",
       "updatedAt": "2026-11-15T09:37:06.982Z"
+    },
+    {
+      "date": "2026-11-17",
+      "period": "2026-11-17",
+      "frequency": "event",
+      "value": 3,
+      "rawValue": 3,
+      "normalizedValue": 3,
+      "source": "BIS WS_CBPOL",
+      "seriesId": "CN-lpr",
+      "updatedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "date": "2000-12-01",
@@ -31062,6 +31073,17 @@
       "sourceUrl": "https://data.bis.org/topics/CBPOL"
     },
     {
+      "seriesId": "CN-lpr",
+      "countryCode": "CN",
+      "indicatorKey": "lpr",
+      "eventType": "rate_decision",
+      "date": "2026-11-17",
+      "period": "2026-11-17",
+      "actual": 3,
+      "source": "BIS WS_CBPOL",
+      "sourceUrl": "https://data.bis.org/topics/CBPOL"
+    },
+    {
       "seriesId": "EU-cpi",
       "countryCode": "EU",
       "indicatorKey": "cpi",
@@ -54171,7 +54193,7 @@
       "requiresApiKey": true,
       "status": "fresh",
       "coverage": "US GDP, CPI fallback, Fed policy rate",
-      "lastCheckedAt": "2026-11-19T21:32:16.126Z"
+      "lastCheckedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "key": "bls",
@@ -54181,7 +54203,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "US CPI monthly",
-      "lastCheckedAt": "2026-11-19T21:32:16.126Z"
+      "lastCheckedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "key": "dbnomics",
@@ -54191,7 +54213,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Free OECD/IMF/NBS mirror for Korea GDP/CPI and China GDP/CPI",
-      "lastCheckedAt": "2026-11-19T21:32:16.126Z"
+      "lastCheckedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "key": "world_bank",
@@ -54219,7 +54241,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Taiwan CPI and central-bank policy-rate open data; GDP waits for a stable official quarterly level table",
-      "lastCheckedAt": "2026-11-19T21:32:16.126Z"
+      "lastCheckedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "key": "eurostat",
@@ -54229,7 +54251,7 @@
       "requiresApiKey": false,
       "status": "stale",
       "coverage": "Euro area GDP and HICP for investor-focused European macro",
-      "lastCheckedAt": "2026-11-19T21:32:16.126Z",
+      "lastCheckedAt": "2026-11-20T08:31:54.382Z",
       "errorMessage": "Source has not published a new value yet"
     },
     {
@@ -54240,7 +54262,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Euro area policy rate and monetary policy events",
-      "lastCheckedAt": "2026-11-19T21:32:16.126Z"
+      "lastCheckedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "key": "bis",
@@ -54250,7 +54272,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "Cross-country policy-rate history fallback",
-      "lastCheckedAt": "2026-11-19T21:32:16.126Z"
+      "lastCheckedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "key": "estat",
@@ -54261,7 +54283,7 @@
       "registrationUrl": "https://www.e-stat.go.jp/api/api-dev/request",
       "status": "fresh",
       "coverage": "Japan official GDP/CPI after free appId registration",
-      "lastCheckedAt": "2026-11-19T21:32:16.126Z"
+      "lastCheckedAt": "2026-11-20T08:31:54.382Z"
     },
     {
       "key": "china_nbs_dbnomics",
@@ -54271,7 +54293,7 @@
       "requiresApiKey": false,
       "status": "fresh",
       "coverage": "China nominal GDP and CPI from NBS mirror with optional NBS EasyQuery direct reads; IMF CPI fills missing periods",
-      "lastCheckedAt": "2026-11-19T21:32:16.126Z"
+      "lastCheckedAt": "2026-11-20T08:31:54.382Z"
     }
   ],
   "dataQualityWarnings": [
@@ -56299,9 +56321,9 @@
       "retryCount": 0
     },
     "CN-lpr": {
-      "lastAttemptAt": "2026-11-15T09:37:06.982Z",
-      "lastSuccessAt": "2026-11-15T09:37:06.982Z",
-      "nextReleaseDate": "2026-11-20T08:00:00.000Z",
+      "lastAttemptAt": "2026-11-20T08:31:54.382Z",
+      "lastSuccessAt": "2026-11-20T08:31:54.382Z",
+      "nextReleaseDate": "2026-12-20T08:00:00.000Z",
       "retryCount": 0
     },
     "TW-cpi": {
